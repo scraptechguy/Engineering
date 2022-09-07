@@ -15,7 +15,7 @@
 + **Vedlejsi** jednotky
 + **Nasobky a dily jednotek** 
 
-#### Zakladni a odvozene veliciny a jejich jednotky
+### Zakladni a odvozene veliciny a jejich jednotky
 
 <table>
 <tr><th>Zakladni</th><th>Odvozene</th></tr>
@@ -46,13 +46,13 @@
 
 </td></tr> </table>
 
-#### Vedlejsi jednotky
+### Vedlejsi jednotky
 
 | Nezev        | Znacka    | Jednotka   | Znacka jednotky|
 |--------------|-----------|------------|----------------|
 ...
 
-#### Nasobky a dily jednotek
+### Nasobky a dily jednotek
 
 <table>
 <tr><th>Zakladni</th><th>Dalsi</th></tr>
