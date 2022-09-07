@@ -12,8 +12,8 @@
 
 + **Zakladni** veliciny a jejich jednotky
 + **Odvozene** veliciny a jejich jednotky
-+ **Nasobky a dily jednotek** 
 + **Vedlejsi** jednotky
++ **Nasobky a dily jednotek** 
 
 #### Zakladni a odvozene veliciny a jejich jednotky
 
@@ -46,6 +46,12 @@
 
 </td></tr> </table>
 
+#### Vedlejsi jednotky
+
+| Nezev        | Znacka    | Jednotka   | Znacka jednotky|
+|--------------|-----------|------------|----------------|
+...
+
 #### Nasobky a dily jednotek
 
 <table>
@@ -75,9 +81,3 @@
 | centi    | **c**     | 10^-2   |
 
 </td></tr> </table>
-
-#### Vedlejsi jednotky
-
-| Nezev        | Znacka    | Jednotka   | Znacka jednotky|
-|--------------|-----------|------------|----------------|
-...
