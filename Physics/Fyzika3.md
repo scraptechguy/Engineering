@@ -15,7 +15,11 @@
 + **Nasobky a dily jednotek** 
 + **Vedlejsi** jednotky
 
-#### Zakladni veliciny a jejich jednotky
+#### Zakladni a odvozene veliciny a jejich jednotky
+
+<table>
+<tr><th>Zakladni</th><th>Odvozene</th></tr>
+<tr><td>
 
 | Nezev        | Znacka    | Jednotka   | Znacka jednotky|
 |--------------|-----------|------------|----------------|
@@ -27,7 +31,7 @@
 | Latkove mn.  | **n**     | mol        | mol            |
 | Svitivost    | **Iv**    | kandela    | cd             |
 
-#### Odvozene veliciny a jejich jednotky
+</td><td>
 
 | Nezev        | Znacka    | Jednotka   | Znacka jednotky|
 |--------------|-----------|------------|----------------|
@@ -39,6 +43,8 @@
 | Latkove mn.  | **n**     | mol        | mol            |
 | Svitivost    | **Iv**    | kandela    | cd             |
 ...
+
+</td></tr> </table>
 
 #### Nasobky a dily jednotek
 
