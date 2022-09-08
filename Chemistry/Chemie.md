@@ -6,6 +6,16 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simple_Periodic_Table_Chart-blocks.svg/2880px-Simple_Periodic_Table_Chart-blocks.svg.png">
 
+### Tvoreni nazvoslovi
+
+| Skupina         | Proces                        | Priklad                        |
+|-----------------|-------------------------------|--------------------------------|
+| Oxidy           |                               |                                |
+| Peroxidy        |                               |                                |
+| Hydroxidy       |                               |                                |
+| Hydridy         |                               |                                |
+
+
 ### Oxidy
 
 + Slouceny kysliku
