@@ -73,6 +73,8 @@
 ### Nasobky a dily jednotek
 
 <table>
+<tr><td>
+<table>
 <tr><th>Zakladni</th><th>Dalsi</th></tr>
 <tr><td>
 
@@ -98,4 +100,10 @@
 | deci     | **d**     | 10<sup>-1</sup>   |
 | centi    | **c**     | 10<sup>-2</sup>   |
 
-</td></tr> </table>
+</table>
+</td><td>
+
++ Bla bla bla
+
+</td></tr> 
+</table>
