@@ -8,7 +8,7 @@
 
 + Merenim zjistujeme, kolikrat je merena velicina vetsi nez jednotka
 
-### Rozdeleni fyzikalnich velicin a jednotek
+## Rozdeleni fyzikalnich velicin a jednotek
 
 + **Zakladni** veliciny a jejich jednotky
 + **Odvozene** veliciny a jejich jednotky
