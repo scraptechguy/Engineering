@@ -48,6 +48,9 @@
 
 ### Vedlejsi jednotky
 
+<table>
+<tr><td>
+
 | Nezev        | Znacka    | Jednotka   | Znacka jednotky| Prevod                |
 |--------------|-----------|------------|----------------|-----------------------|
 | Cas          | **t**     | minuta     | min            | 1 min = 60 s          |
@@ -60,6 +63,12 @@
 |              |           | minuta     | '              | 1 ' = π/10800 rad     |
 |              |           | vterina    | ''             | 1 '' = π/648000 rad   |
 ...
+
+</td><td>
+
++ Kazda velicina ma **hlavni** jednotku a **vedlejsi** jednotky odvozene od hlavni jednotky
+
+</td></tr> </table>
 
 ### Nasobky a dily jednotek
 

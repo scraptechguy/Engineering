@@ -1,14 +1,14 @@
-# Nomenclature of inorganic compounds
+# Nazvoslovi neorganickych latek
 
-+ Oxidation state - the number of electrons lost or gained by an atom in a compound, roman numbers, operator before
++ Oxidacni cislo - pocet elektronu, ktere atom nebo ion ztraci nebo ziskava pri reakci s jinym atomem nebo ionem, rimska cisla, znamenko pred
 
-+ Charge - arabian numbers, operator after
++ Naboj - arabska cisla, znamenko po
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simple_Periodic_Table_Chart-blocks.svg/2880px-Simple_Periodic_Table_Chart-blocks.svg.png">
 
-### Oxides
+### Oxidy
 
-+ Bla bla that's how it's done
++ Slouceny kysliku
 
 ```
 Na2O - sodium oxide
@@ -30,7 +30,7 @@ Phosphorus pentoxide - P2O5
 Iodine heptoxide - I2O7
 ```
 
-### Peroxides
+### Peroxidy
 
 + Bla bla that's how it's done
 
@@ -39,7 +39,7 @@ Na2O2 - sodium peroxide
 
 ```
 
-### Hydroxides
+### Hydroxidy
 
 + Bla bla that's how it's done
 
@@ -47,7 +47,7 @@ Na2O2 - sodium peroxide
 Ca(OH)2 - calcium hydroxide
 ```
 
-### Hydrides
+### Hydridy
 
 + Bla bla that's how it's done
 
