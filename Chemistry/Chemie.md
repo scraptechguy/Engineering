@@ -66,3 +66,33 @@ H2S - hydrogen sulfide
 
 ### Kyslikate kyseliny a jejich soli
 
+<table>
+<tr><th>Kyslikate kyseliny</th><th>Soli</th></tr>
+<tr><td>
+
+| Koncovka  | Zapis                                                                  | Jmeno                                             |
+|-----------|------------------------------------------------------------------------|---------------------------------------------------|
+| `na`      | H<sup>+I</sup> X<sup>I</sup> O<sup>-II</sup>                           | kys. chlorna (HClO)                               |
+| `nata`    | H<sup>+I</sup> X<sup>II</sup> O<sub>2</sub><sup>-II</sup>              | kys. manganata (H<sub>2</sub>MnO<sub>2</sub>)     |
+| `ita`     | H<sup>+II</sup> X<sup>III</sup> O<sub>2</sub><sup>-II</sup>            | kys. dusita (HNO<sub>2</sub>)                     |
+| `icita`   | H<sub>2</sub><sup>+I</sup> X<sup>IV</sup> O<sub>3</sub><sup>-II</sup>  | kys. uhlicita (H<sub>2</sub>CO<sub>3</sub>)       |
+| `icna`    | H<sup>+I</sup> X<sup>V</sup> O<sub>3</sub><sup>-II</sup>               | kys. dusicna (HNO<sub>3</sub>)                    |
+| `ova`     | H<sub>2</sub><sup>+I</sup> X<sup>VI</sup> O<sub>4</sub><sup>-II</sup>  | kys. sirova (H<sub>2</sub>SO<sub>4</sub>)         |
+| `ista`    | H<sup>+I</sup> X<sup>VII</sup> O<sub>4</sub><sup>-II</sup>             | kys. chlorista (HClO<sub>4</sub>)                 |
+| `icela`   | H<sub>2</sub><sup>+I</sup> X<sup>VIII</sup> O<sub>5</sub><sup>-II</sup>| kys. xenonicela (H<sub>2</sub>XeO<sub>5</sub>)    |
+
+</td><td>
+
+| ...       | Sul                                      | Jmeno                                             |
+|-----------|------------------------------------------|---------------------------------------------------|
+| --->      | (ClO)                                    | kys. chlorna (HClO)                               |
+| --->      | (MnO<sub>2</sub>)<sup>-II</sup>          | kys. manganata (H<sub>2</sub>MnO<sub>2</sub>)     |
+| --->      | (NO<sub>2</sub>)<sup>-I</sup>            | kys. dusita (HNO<sub>2</sub>)                     |
+| --->      | (CO<sub>3</sub>)<sup>-II</sup>           | kys. uhlicita (H<sub>2</sub>CO<sub>3</sub>)       |
+| --->      | (NO<sub>3</sub>)<sup>-I</sup>            | kys. dusicna (HNO<sub>3</sub>)                    |
+| --->      | (SO<sub>4</sub>)<sup>-II</sup>           | kys. sirova (H<sub>2</sub>SO<sub>4</sub>)         |
+| --->      | (ClO<sub>4</sub>)<sup>-II</sup>          | kys. chlorista (HClO<sub>4</sub>)                 |
+| --->      | (XeO<sub>5</sub>)<sup>-II</sup>          | kys. xenonicela (H<sub>2</sub>XeO<sub>5</sub>)    |
+
+</td></tr> </table>
+
