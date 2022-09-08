@@ -63,3 +63,6 @@ HCl - hydrogen chloride
 
 H2S - hydrogen sulfide
 ```
+
+### Kyslikate kyseliny a jejich soli
+
