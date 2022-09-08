@@ -85,7 +85,7 @@ H2S - hydrogen sulfide
 
 | ...       | Sul                                      | Jmeno                                             |
 |-----------|------------------------------------------|---------------------------------------------------|
-| --->      | (ClO)                                    | kys. chlorna (HClO)                               |
+| --->      | (ClO)                                    |                                                   |
 | --->      | (MnO<sub>2</sub>)<sup>-II</sup>          | kys. manganata (H<sub>2</sub>MnO<sub>2</sub>)     |
 | --->      | (NO<sub>2</sub>)<sup>-I</sup>            | kys. dusita (HNO<sub>2</sub>)                     |
 | --->      | (CO<sub>3</sub>)<sup>-II</sup>           | kys. uhlicita (H<sub>2</sub>CO<sub>3</sub>)       |
@@ -95,4 +95,10 @@ H2S - hydrogen sulfide
 | --->      | (XeO<sub>5</sub>)<sup>-II</sup>          | kys. xenonicela (H<sub>2</sub>XeO<sub>5</sub>)    |
 
 </td></tr> </table>
+
+### Hydrogen soli
+
++ H<sub>2</sub>CO<sub>3</sub> `--->` (CO3)-II uhliditany, (HCO3)-I hydrogenuhlicitan
++ H<sub>2</sub>SO<sub>4</sub> `--->` (SO4)-II siran, (HSO4)-I hydrogensiran
++ H<sub>2</sub>PO<sub>4</sub> `--->` (PO4)-III fosforecnan, (HPO4)-II hydrogenfosforecnan, (H2PO4)-I dihydrogenfosforecnan
 
