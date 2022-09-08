@@ -103,7 +103,7 @@
 </table>
 </td><td>
 
-+ Bla bla bla
++ V ruznych prirodovednych i technickych oborech jsou bezne hodnoty velicin, ktere se o mnoho radu lisi od velikosti hlavni (zakladni nebo odvozene) jednotky, pripadne pouzivane povolene mimosoustavove jednotky. Pro zjednoduseni jejich vyjadreni se pouzivaji jejich nasobky a dily.
 
 </td></tr> 
 </table>
