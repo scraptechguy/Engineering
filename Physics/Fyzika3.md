@@ -48,8 +48,17 @@
 
 ### Vedlejsi jednotky
 
-| Nezev        | Znacka    | Jednotka   | Znacka jednotky|
-|--------------|-----------|------------|----------------|
+| Nezev        | Znacka    | Jednotka   | Znacka jednotky| Prevod                |
+|--------------|-----------|------------|----------------|-----------------------|
+| Cas          | **t**     | minuta     | min            | 1 min = 60 s          |
+|              |           | hodina     | h              | 1 h = 3600 s          |
+|              |           | den        | d              | 1 d = 86400 s         |
+|              |           | rok        | y              | 1 y = 31536000 s      |
+| Delka        | **l**     | astr. jed. | AU             | 1 AU = 149597870700 m |
+|              |           | svetl. rok | ly             | 1 ly = 9460730472580 m|
+| Uhel         |           | stupen     | °              | 1 ° = π/180 rad       |
+|              |           | minuta     | '              | 1 ' = π/10800 rad     |
+|              |           | vterina    | ''             | 1 '' = π/648000 rad   |
 ...
 
 ### Nasobky a dily jednotek
