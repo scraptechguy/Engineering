@@ -67,26 +67,26 @@
 <tr><th>Zakladni</th><th>Dalsi</th></tr>
 <tr><td>
 
-| Predpona | Znacka    | Nasobek |
-|----------|-----------|---------|
+| Predpona | Znacka    | Nasobek           |
+|----------|-----------|-------------------|
 ...
-| tera     | **T**     | 10^12   |
-| giga     | **G**     | 10^9    |
-| mega     | **M**     | 10^6    |
-| kilo     | **k**     | 10^3    |
-| mili     | **m**     | 10^-3   |
-| mikro    | **mi**    | 10^-6   |
-| nano     | **n**     | 10^-9   |
-| piko     | **p**     | 10^-12  |
+| tera     | **T**     | 10<sup>12</sup>   |
+| giga     | **G**     | 10<sup>9</sup>    |
+| mega     | **M**     | 10<sup>6</sup>    |
+| kilo     | **k**     | 10<sup>3</sup>    |
+| mili     | **m**     | 10<sup>-3</sup>   |
+| mikro    | **mi**    | 10<sup>-6</sup>   |
+| nano     | **n**     | 10<sup>-9</sup>   |
+| piko     | **p**     | 10<sup>-12</sup>  |
 ...
 
 </td><td>
 
-| Predpona | Znacka    | Nasobek |
-|----------|-----------|---------|
-| hekto    | **h**     | 10^2    |
-| deka     | **da**    | 10^1    |
-| deci     | **d**     | 10^-1   |
-| centi    | **c**     | 10^-2   |
+| Predpona | Znacka    | Nasobek           |
+|----------|-----------|-------------------|
+| hekto    | **h**     | 10<sup>2</sup>    |
+| deka     | **da**    | 10<sup>1</sup>    |
+| deci     | **d**     | 10<sup>-1</sup>   |
+| centi    | **c**     | 10<sup>-2</sup>   |
 
 </td></tr> </table>
