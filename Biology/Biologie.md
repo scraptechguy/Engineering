@@ -17,3 +17,31 @@ Plazmidy - da se s nimi manipulovat
 Bakteriochlorofyl - ulozeny ve vaccich
 Kompartnemnty - prostory v bunce
 ```
+
+### Mikroskop
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sszdra-karvina.cz%2Fbunka%2Ffy%2F03lupmi%2Fobr%2Fmikobr.jpg&f=1&nofb=1">
+</div>
+
++ **Mikroskop** - vynalezl Antoni van Leeuwenhoek (2. pol. 17. stol.), Carl Zeiss - profesni pouziti
+
+    + Cast mechanicka - podstavec (noha), rukojet (drzadlo), stolek, tubus, menic objektivu (revolver), srouby
+
+    + Cast opticka - objektiv, okular, kondenzor a clona, zdroj svetla
+
++ **Elektronovy mikroskop** - vetsi zvetseni, rustrovaci jeste vic + prostorove fotografie
+
+#### Mikroskopovani
+
+```
+1. Umisti mikroskop
+2. Nestav okulary, rozni, a ocisti optiku
+3. Umisti preparat na stolek
+4. Sklon hlavu (duh) a vysun stolek nejblik k tomu viscemu
+5. Serid clonu
+6. Nejlepsi misto doprostred
+7. Nejvetsi blizsi zvetseni prvni
+8. Uklid (nastav nejmensi zoom zas)
+```
+
