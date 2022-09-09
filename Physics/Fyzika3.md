@@ -350,5 +350,4 @@ Opacny smer:
 (mereni na cela cisla, zaokrouhleni na desetina mista)
 3. ...
 
-
 </td></tr> </table>
