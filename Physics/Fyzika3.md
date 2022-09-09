@@ -314,3 +314,34 @@ Opacny smer:
     |F| = |F1| - |F2|
     |F| = 15 N - 20 N = |-5 N| = 5 N
 ```
+
+## Chyba mereni
+
++ Fyzikalni mereni dane veliciny se dela vzdy s urcitou presnosti, chyby mereni jsou vsudypritomne...
+
+```
+1. Systematicke chyby (presnost meridel, nedokonalost smyslu, ...) 
+2. Hrube chyby (nepozornost, omyl, jedna vychylena hodnota)
+3. Nahodne chyby (v dusledku pusobeni nahodnych rusivych elementu)
+```
+
+### Zpracovani vysledku mereni
+
++ 5 krat sme zmerili stranu kvadru (`lk`)
+
+| Mereni     | l<sub>k</sub> (mm)   | delta l<sub>k</sub> (mm) |
+|------------|----------------------|--------------------------|
+| 1.         | 107,2                |                          |
+| 2.         | 107,4                |                          |
+| 3.         | 107,4                |                          |
+| 4.         | 107,5                |                          |
+| 5.         | 107,3                |                          |
+| **Prumer** | **107,36**           |                          |
+
+Postup...
+```
+1. Namerene hodnoty napiseme do tabulky
+2. Vypocitame prumernou hodnotu a zaokrouhlime o jedno misto vic nez bylo mereno 
+(mereni na cela cisla, zaokrouhleni na desetina mista)
+3. ...
+```
