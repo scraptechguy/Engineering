@@ -8,6 +8,10 @@
 
 ### Tvoreni nazvoslovi
 
+<table>
+<tr><th>Kyslikate</th><th>Bezkyslikate</th><th>Ionty</th></tr>
+<tr><td>
+
 | Skupina         | Proces                        | Priklad                        |
 |-----------------|-------------------------------|--------------------------------|
 | Oxidy           |                               |                                |
@@ -15,6 +19,27 @@
 | Hydroxidy       |                               |                                |
 | Hydridy         |                               |                                |
 
+</td><td>
+
+| Skupina         | Proces                        | Priklad                        |
+|-----------------|-------------------------------|--------------------------------|
+| Oxidy           |                               |                                |
+| Peroxidy        |                               |                                |
+| Hydroxidy       |                               |                                |
+| Hydridy         |                               |                                |
+
+</td><td>
+
+| Skupina         | Proces                        | Priklad                                         |
+|-----------------|-------------------------------|-------------------------------------------------|
+| Kationy         | Kation + `prvek`-`koncovka`   | Fe<sup>2+</sup> - kation zeleznaty              |
+|                 |                               | K<sup>+</sup> - kation draselny                 |
+|                 |                               | NH<sub>4</sub><sup>+</sup> - kation amonny      |
+| Aniony          | Anion + `neco`-ovy            | SiO<sub>3</sub><sup>2-</sup>- a. kremicitanovy  |
+|                 |                               | CN<sup>-</sup>- anion kyanidovy                 |
+|                 |                               | S<sup>2-</sup>- anion sulfidovy                 |
+ 
+</td></tr> </table>
 
 ### Oxidy
 
@@ -112,3 +137,13 @@ H2S - hydrogen sulfide
 + H<sub>2</sub>SO<sub>4</sub> `--->` (SO4)-II siran, (HSO4)-I hydrogensiran
 + H<sub>2</sub>PO<sub>4</sub> `--->` (PO4)-III fosforecnan, (HPO4)-II hydrogenfosforecnan, (H2PO4)-I dihydrogenfosforecnan
 
+### Hydraty
+
+`CuSO4 * 5H2O` - pentahydrat siranu mednateho
+`FeSO4 * 7H2O` - heptahydrat siranu zeleznateho
+
+### Ionty
+
+`+` - kationy (Fe2+ - zeleznaty kation, NH4+ - amonny kation)
+
+`-` - aniony
