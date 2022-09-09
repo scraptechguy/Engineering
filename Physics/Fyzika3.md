@@ -107,3 +107,210 @@
 
 </td></tr> 
 </table>
+
+## Skalarni a vektorove veliciny
+
++ **Skalarni** veliciny jsou urceny ciselnou hodnoutou a jednotkou (cas, hmotnost, draha, tlak, energie, ...)
+
++ **Vektorove** veliciny jsou urceny ciselnou hodnotou, jednotkou, smerem a polohou vektorove primky (rychlost, sila, moment, ...)
+
+```
+Vektory se znaci polotucnym pismenem nebo sipkou nad znackou veliciny
+```
+
+### Vektorove veliciny
+
++ graficky vektor zakreslujeme pomoci orientovane usecky, primka prolozena koncovymi body orientovane usecky je vektorova primka
+
+```
+******------------>******
+
+Meritko: 1 - = 1 N
+Velikost vektoru sily je |F| = 12 N
+```
+
+Vektorova primka a sipka oznacuji smer vektoru, delka usecky znazornuje velikost vektoru
+
+### Scitani vektoru
+
+```
+  |F1|
+   ^
+   |     
+   |            -----> |F2|
+
+```
+Skladat (scitat) dva vektory znamena, ze do koncoveho bodu prvniho vektoru umistime pocateni bod druheho vektoru, vyslednice vektoru je urcena pocatecnim bodem prvniho vektoru a koncovym bodem druheho vektoru
+
+```
+  |F1|  
+   ^  / |F3|
+   | /    
+   |/            
+   -----> |F2|
+
+```
+
+#### Vektory pusobi v jednom bode, maji stejny smer
+
++Velikost vyslednice vektoru sily je rovna souctu velikosti vektoru sil, smer vyslednice vektoru sily je stejny jako smery vektoru, ktere skladame
+```
+    -----> |F1|  
+                  -------> |F2|
+
+    ----->-------> 
+    -------------> |F3|
+
+
+|F3| = |F1| + |F2|
+```
+
+#### Vektory pusobi v jednom bode, maji opacny smer
+
++ Velikost vyslednice je rovna aboslutni hodnote rozdilu velikosti skladanych vektoru. Smer vyslednice je stejny jako smer vetsiho z vektoru, ktere skladame
+
+```
+    |F1| <----o---------> |F2|  
+
+    --------->
+         <----
+    ----> |F3|
+
+
+|F3| = |F2| - |F1|
+```
+
+#### Vektory pusobi v jednom bode, jsou navzajem kolme
+
++ Velikost vyslednice vektoru sily se urci Pytagorovou vetou, jeji smer s vyuzitim goniometrickych funkci
+
+```
+  |F1|  
+   ^\
+   | \  |F3|
+   |  \          
+   -----> |F2|
+
+|F3| = (|F1|^2 + |F2|^2)^0.5    - Pytagorova veta
+tan alpha = |F1| / |F2|
+```
+
+#### Vektory pusobi v jednom bode v ruznych smerech
+
++ Reseni graficky:
+
+```
+    ------> |F1| 
+                  \
+                   \
+                    \
+                     V   |F2|
+
+    ------>  
+           \
+            \
+    |F3|     \
+              V           
+```
+
+Z grafickeho reseni pomoci meritka urcime velikost vyslednice vektoru sily
+
+### Nasobeni vektoru
+
++ Sestrojte vektor `|F2| = n|F1|`, kde `n` je 2 a `|F1| = 6 N`
+
+```
+Graficky:
+
+    -----> |F1|
+
+    ----->-----> 
+    -----------> |F2| (12 N)
+
+Vypoctem:
+
+|F2| = 2 * |F1|
+|F2| = 2 * 6 N = 12 N
+```
+
+#### Nasobeni vektoru zapornym realnym cislem
+
++ Sestrojte vektor `|F2| = n|F1|`, kde `n` je -2 a `|F1| = 6 N`
+
+```
+Graficky:
+
+    -----> |F1|
+
+    <-----<-----
+    <----------- |F2| (-12 N)
+
+Vypoctem:
+
+|F2| = -2 * |F1|
+|F2| = -2 * 6 N = -12 N
+```
+Vysledny vektor `|F2|` ma opacny smer nez `|F1|` a jeho velikost je n-krat krat vetsi nez `|F1|`
+
+### Odcitani vektoru
+
++ Reseni graficky:
+
+```
+    ------> |F1| 
+                  \
+                   \
+                    \
+      ^              V   |F2|
+      /\
+|F3| /  \    |F2'|
+    /    \
+    ------>  
+  |F1|     \
+            \   |F2|
+             \
+              V                
+```
+
+### Rozklad vektoru na slozky
+
++ Rozlozte vektor sily `|F|` na slozky ve smerech os `x`a `y`
+
+```
+
+|        \
+|         \
+|  |Fy|    \     |F|
+V           V
+
+         -->  |Fx|
+```
+
+Hledame sily `|Fy|` a `|Fx|`, ty jsou vyskou a sirkou vektoru `|F|`
+
+#### Priklady
+
++ `|F| = 12 N`, `k = 3`
+    
+```
+|F1| = k|F|
+|F1| = 3 * 12 N = 36 N
+
+|F2| = |F| / k
+|F2| = 12 N / 3 = 4 N
+```
+
++ `|F1| = 15 N`, `|F2| = 20 N`
+
+```
+Stejny smer: 
+
+    |F| = |F1| + |F2|
+    |F| = 15 N + 20 N = 35 N
+
+
+Opacny smer:
+
+    |F| = |F1| - |F2|
+    |F| = 15 N - 20 N = |-5 N| = 5 N
+```
