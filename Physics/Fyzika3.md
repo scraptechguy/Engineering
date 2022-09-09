@@ -329,6 +329,9 @@ Opacny smer:
 
 + 5 krat sme zmerili stranu kvadru (`lk`)
 
+<table>
+<tr><td>
+
 | Mereni     | l<sub>k</sub> (mm)   | delta l<sub>k</sub> (mm) |
 |------------|----------------------|--------------------------|
 | 1.         | 107,2                |                          |
@@ -338,6 +341,8 @@ Opacny smer:
 | 5.         | 107,3                |                          |
 | **Prumer** | **107,36**           |                          |
 
+</td><td>
+
 Postup...
 ```
 1. Namerene hodnoty napiseme do tabulky
@@ -345,3 +350,5 @@ Postup...
 (mereni na cela cisla, zaokrouhleni na desetina mista)
 3. ...
 ```
+
+</td></tr> </table>
