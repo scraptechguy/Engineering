@@ -344,11 +344,11 @@ Opacny smer:
 </td><td>
 
 Postup...
-```
+
 1. Namerene hodnoty napiseme do tabulky
 2. Vypocitame prumernou hodnotu a zaokrouhlime o jedno misto vic nez bylo mereno 
 (mereni na cela cisla, zaokrouhleni na desetina mista)
 3. ...
-```
+
 
 </td></tr> </table>
