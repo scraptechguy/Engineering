@@ -343,7 +343,7 @@ Opacny smer:
 
 </td><td>
 
-Postup...
+### Postup...
 
 1. Namerene hodnoty napiseme do tabulky
 2. Vypocitame prumernou hodnotu a zaokrouhlime o jedno misto vic nez bylo mereno 
