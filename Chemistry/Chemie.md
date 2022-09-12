@@ -14,9 +14,9 @@
 
 | Skupina         | Proces                        | Priklad                        |
 |-----------------|-------------------------------|--------------------------------|
-| Oxidy           |                               |                                |
-| Peroxidy        |                               |                                |
-| Hydroxidy       |                               |                                |
+| **Oxidy**       | Oxid + `prvek`-`koncovka`,<br/>kyslik ma vzdy oxidacni cislo `-II`,<br/>druhy prvek musi zaridit soucet oxidacnich cisel 0<br/>-> z dopoctu koncovka | Mg<sup>+II</sup>O<sup>-II</sup> - oxid horecnaty<br/>As<sub>2</sub><sup>+V</sup>O<sub>5</sub><sup>-II</sup> - oxid arsenicny<br/>B<sub>2</sub><sup>+III</sup>O<sub>3</sub><sup>-II</sup> - oxid bority |
+| **Hydroxidy**   | Hydroxid + `prvek`-`koncovka`,<br/>Hydroxid ma oxidacni cislo `-I` | Ba<sup>+II</sup>(OH)<sub>2</sub><sup>-I</sup> - hydroxid barnaty<br/>Al<sup>+III</sup>(OH)<sub>3</sub><sup>-I</sup> - hydroxid hlinity<br/>Sn<sup>+IV</sup>(OH)<sub>4</sub><sup>-I</sup> - hydroxid cinicity |
+| **Peroxidy**    | Peroxid + `prvek`-`koncovka`,<br/>Peroxid ma oxidacni cislo `-II` (cela O<sub>2</sub> skupina!) | Na<sub>2</sub><sup>+I</sup>O<sub>2</sub><sup>-II</sup> - peroxid sodny<br/>Ba<sup>+II</sup>O<sub>2</sub><sup>-II</sup> - peroxid barnaty |
 | Hydridy         |                               |                                |
 
 </td><td>
