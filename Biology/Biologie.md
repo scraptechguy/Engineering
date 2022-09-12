@@ -12,7 +12,7 @@ Chybi bilkoviny, bakterie
 
 Desetkrat vetsi nez prokarioticka, slozitejsi 
 
-### Jadro
+### Jadro bunky
 
 + Kolem jadra je jaderny obal z nejaky membrany, ridi celou bunku, nese genetickou informaci, nachazi se uprostred bunky
 
@@ -46,15 +46,7 @@ Desetkrat vetsi nez prokarioticka, slozitejsi
 
 ### Chloroplast 
 
-+ Z dvojite membrany, zarizuji fotosyntezu
-
-+ **Tylakoidy** - poskladane na sebe, tvori **grana**
-
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chloroplast_II.svg/660px-Chloroplast_II.svg.png">
-</div>
-
-+ **Chromoplasty** - barviva...
++ Z dvojite membrany, zarizuji fotosyntezu, **Tylakoidy** - poskladane na sebe, tvori **grana**, **Chromoplasty** - barviva...
 
 ```
 xantofyl - zluta
@@ -64,15 +56,62 @@ lykopen - cervena
 
 + **Leukoplasty** - bezbarve, zasobni latky
 
-Slovnik
-```
-Bunecne inkluze - vzduchove castecky,krystalky, ...
-Plazmidy - da se s nimi manipulovat
-Bakteriochlorofyl - ulozeny ve vaccich
-Kompartnemnty - prostory v bunce
-```
+### Vakuola
 
-### Mikroskop
++ Z jednoduche biomembrany, zasobarna vody, shromazduje zasobni a odpadni latky, udrzuje vnitrni napeti - **turgor** 
+
+### Cytoplazma
+
++ Koloidni roztok (konzistence podobna vajecnemu bilku), zakladem je voda, cytoskelet - mikrotubuly, mikrofilamenta
+
+### Lyzozomy
+
++ Obsahuji enzymy co stepi latky, vice typu vacku z jednoduche biomembrany - presnejsi jmena podle typu enzymu
+
+### Centriola
+
++ Vzdy v blizkosti jadra, deleni jadra pri deleni zivocisne bunky (mitoza) - rozdeluji se k polum visco
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Centriole-en.svg/640px-Centriole-en.svg.png">
+</div>
+
+### Prehled
+
+<table>
+<tr><th>Biomembrany</th><th>Typicke veci pro...</th></th><th>Slovnik</tr>
+<tr><td>
+
+| Jednoducha     | Dvojita          | Zadna           |
+|----------------|------------------|-----------------|
+| End. retikulum | Chloroplast      | Bun. stena      |
+| Golgiho aparat | Mitochondrie     | Inkluze         |
+| Cytoplaz. mem. | Jadro            | Cytoplazma      |
+| Vakuola        | Plastidy         | Centriola       |
+| Lyzozomy       |                  |                 |
+
+</td><td>
+
+| Roslina b.     | Zivocisna b.     | 
+|----------------|------------------|
+| Plastidy       | Lyzozomy         |
+| Vakuola        | Centriola        |
+| Bunecna stena  |                  |
+
+</td><td>
+
+**Bunecne inkluze** - vzduchove castecky,krystalky, ...
+
+**Plazmidy** - da se s nimi manipulovat
+
+**Bakteriochlorofyl** - ulozeny ve vaccich
+
+**Kompartnemnty** - prostory v bunce
+
+</td></tr> </table>
+
+
+## Mikroskop
 
 <div align="center">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sszdra-karvina.cz%2Fbunka%2Ffy%2F03lupmi%2Fobr%2Fmikobr.jpg&f=1&nofb=1">
