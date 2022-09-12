@@ -4,11 +4,65 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Animal_cell_structure_cs.svg/2560px-Animal_cell_structure_cs.svg.png">
 
-## Typy bunek
+## Prokaryoticka bunka 
 
-+ Prokaryoticka bunka - chybi bilkoviny, bakterie
+Chybi bilkoviny, bakterie
 
-+ Eukaryoticka bunka - desetkrat vetsi nez prokarioticka
+## Eukaryoticka bunka
+
+Desetkrat vetsi nez prokarioticka, slozitejsi 
+
+### Jadro
+
++ Kolem jadra je jaderny obal z nejaky membrany, ridi celou bunku, nese genetickou informaci, nachazi se uprostred bunky
+
++ **Chromozomy** - jsou na bilkovinem nosici (dna obmotana kolem krychlicek chromozomu), jsou v parech a druhove specificke 
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.zivocisnabunka.estranky.cz%2Fimg%2Fmid%2F9%2Fjadro-bunky.png.jpg&f=1&nofb=1">
+</div>
+
+### Endoplazmaticke retikulum
+
++ synteticke centrum (probiha synteza vsech dulezitych latek), z jednoduche biomembrany, je hladke a drsne, je v blizkosti jadra aby vedelo jake bilkoviny tvorit, jsou v nem **ribozomy**
+
++ **Golgiho aparat** - z jednoduche biomembrany, blizko endoplazmatickeho retikula, upravuje latky pro transport (po bunce i mimo bunku), jinak take dicktiozom 🤨
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbiopedia.sk%2Fimages%2Fstruktura-endoplazmatickeho-retikula.png%3Fid%3Df31306f08d619d796a400127ebe3dead&f=1&nofb=1">
+</div>
+
+### Cytoplazmaticka membrana 
+
++ z jednoduche biomembrany, **polopropustna** - reguluje prijem a odevzdavani latek, kriteriem propustnosti je velikost
+
+### Mitochondrie
+
++ Powerhouse of the cell duh, z jednoduche biomembrany, nachazi se vsude, probiha v nich dychani
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitochondrion_structure.svg/700px-Mitochondrion_structure.svg.png">
+</div>
+
+### Chloroplast 
+
++ Z dvojite membrany, zarizuji fotosyntezu
+
++ **Tylakoidy** - poskladane na sebe, tvori **grana**
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chloroplast_II.svg/660px-Chloroplast_II.svg.png">
+</div>
+
++ **Chromoplasty** - barviva...
+
+```
+xantofyl - zluta
+karoten - oranzova
+lykopen - cervena
+```
+
++ **Leukoplasty** - bezbarve, zasobni latky
 
 Slovnik
 ```
