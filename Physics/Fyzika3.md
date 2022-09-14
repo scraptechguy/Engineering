@@ -369,6 +369,6 @@ Opacny smer:
 | 5.         | 107,3                | -0.06                    |
 | **Prumer** | **107,36**           | **0**                    |
 
-Jestlize vyjde soucet odchylek 0, je mereni pravdepodobne spravne
++ Jestlize vyjde soucet odchylek 0, je mereni pravdepodobne spravne
 
 </td></tr> </table>
