@@ -1,7 +1,7 @@
 ## Kapitoly
 
-#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#tvoreni-nazvoslovi">Tvoreni nazvoslovi</a>
-+ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#prehled-nazvoslovi">Prehled nazvoslovi</a>
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#tvoreni-nazvoslovi-1">Tvoreni nazvoslovi</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#prehled-nazvoslovi">Prehled nazvoslovi</a>
 
 # Tvoreni nazvoslovi
 
