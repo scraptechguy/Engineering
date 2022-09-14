@@ -327,27 +327,41 @@ Opacny smer:
 
 ### Zpracovani vysledku mereni
 
-+ 5 krat sme zmerili stranu kvadru (`lk`)
+5 krat sme zmerili stranu kvadru (`lk`)
 
 <table>
 <tr><td>
 
-| Mereni     | l<sub>k</sub> (mm)   | delta l<sub>k</sub> (mm) |
-|------------|----------------------|--------------------------|
-| 1.         | 107,2                |                          |
-| 2.         | 107,4                |                          |
-| 3.         | 107,4                |                          |
-| 4.         | 107,5                |                          |
-| 5.         | 107,3                |                          |
-| **Prumer** | **107,36**           |                          |
-
-</td><td>
-
 ### Postup...
 
 1. Namerene hodnoty napiseme do tabulky
+
 2. Vypocitame prumernou hodnotu a zaokrouhlime o jedno misto vic nez bylo mereno 
 (mereni na cela cisla, zaokrouhleni na desetina mista)
-3. ...
+
+3. Urcite a zapiseme odchylky jednotlivych mereni
+
+4. Z jednotlivych odchylek vypocitame prumernou odchylku `delta lk` jako aritmeticky prumer absolutnich hodnot odchylek z jednotlivych mereni
+
+5. Prumernou odchylku zaokrouhlime na jednu platnou cislici
+
+6. Prumernou hodnotu zaokrouhlime na stejny pocet desetinych mist jako je prumerna odchylka
+
+7. Urcime relativni odchylku mereni a vyjadrime ji v procentech (prumerna odchylka / aritmeticky prumer)
+
+8. Vysledek zapiseme ve tvaru `l s pruhem + delta l`
+
+</td><td>
+
+| Mereni     | l<sub>k</sub> (mm)   | delta l<sub>k</sub> (mm) |
+|------------|----------------------|--------------------------|
+| 1.         | 107,2                | -0.16                    |
+| 2.         | 107,4                | 0.04                     |
+| 3.         | 107,4                | 0.04                     |
+| 4.         | 107,5                | 0.14                     |
+| 5.         | 107,3                | -0.06                    |
+| **Prumer** | **107,36**           | **0**                    |
+
+Jestlize vyjde soucet odchylek 0, je mereni pravdepodobne spravne
 
 </td></tr> </table>
