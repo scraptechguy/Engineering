@@ -346,7 +346,7 @@ Opacny smer:
 2. Vypocitame prumernou hodnotu a zaokrouhlime o jedno misto vic nez bylo mereno 
 (mereni na cela cisla, zaokrouhleni na desetina mista)
 
-3. Urcite a zapiseme odchylky jednotlivych mereni
+3. Urcite a zapiseme odchylky jednotlivych mereni (`lk` - `prumer`)
 
 4. Z jednotlivych odchylek vypocitame prumernou odchylku `delta lk` jako aritmeticky prumer absolutnich hodnot odchylek z jednotlivych mereni
 
@@ -356,7 +356,7 @@ Opacny smer:
 
 7. Urcime relativni odchylku mereni a vyjadrime ji v procentech (prumerna odchylka / aritmeticky prumer)
 
-8. Vysledek zapiseme ve tvaru `l s pruhem + delta l`
+8. Vysledek zapiseme ve tvaru `l s pruhem` + `delta l`
 
 </td><td>
 
