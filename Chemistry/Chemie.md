@@ -1,4 +1,9 @@
-# Nazvoslovi neorganickych latek
+## Kapitoly
+
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#tvoreni-nazvoslovi">Tvoreni nazvoslovi</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#prehled-nazvoslovi">Prehled nazvoslovi</a>
+
+# Tvoreni nazvoslovi
 
 + Oxidacni cislo - pocet elektronu, ktere atom nebo ion ztraci nebo ziskava pri reakci s jinym atomem nebo ionem, rimska cisla, znamenko pred
 
@@ -6,7 +11,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simple_Periodic_Table_Chart-blocks.svg/2880px-Simple_Periodic_Table_Chart-blocks.svg.png">
 
-### Tvoreni nazvoslovi
+### Prehled nazvoslovi
 
 <table>
 <tr><th>Kyslikate</th><th>Bezkyslikate</th><th>Ionty</th></tr>
