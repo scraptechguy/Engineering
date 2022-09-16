@@ -46,63 +46,7 @@
  
 </td></tr> </table>
 
-### Oxidy
 
-+ Slouceny kysliku
-
-```
-Na2O - sodium oxide
-Al2O3 - aluminum oxide
-Sb2O5 - antimony pentoxide
-Mn2O7 - manganese heptoxide
-CaO - calcium oxide
-SO2 - sulfur dioxide
-WO3 - tungsten trioxide
-OsO4 - osmium tetroxide
-```
-
-```
-Titanium dioxide - TiO2
-Arsenic trioxide - As2O3
-Thallium oxide - Tl2O
-Zinc oxide - ZNO 
-Phosphorus pentoxide - P2O5
-Iodine heptoxide - I2O7
-```
-
-### Peroxidy
-
-+ Bla bla that's how it's done
-
-```
-Na2O2 - sodium peroxide
-
-```
-
-### Hydroxidy
-
-+ Bla bla that's how it's done
-
-```
-Ca(OH)2 - calcium hydroxide
-```
-
-### Hydridy
-
-+ Bla bla that's how it's done
-
-```
-NaH - sodium hydride
-CaH2 - calcium hydride
-
-NH3 - ammonia hydride
-PH3 - phosphine hydride
-
-HF - hydrogen fluoride
-HCl - hydrogen chloride
-
-H2S - hydrogen sulfide
-```
 
 ### Kyslikate kyseliny a jejich soli
 
@@ -152,3 +96,69 @@ H2S - hydrogen sulfide
 `+` - kationy (Fe2+ - zeleznaty kation, NH4+ - amonny kation)
 
 `-` - aniony
+
+# Termochemie
+
++ **Reakcni teplo** `Q` - velicina udavajici teplo, ktere soustava prijme ci odevzda, pokud se dana chemicka reakce uskutecni v jednotkovem rozsahu, t. zareaguji takova latkova mnozstvi, jaka udavaji stechiometricke koeficienty
+
++ Probiha-li reakce za konstatniho tlaku (vsechny reakce v otevrenych nadobach) pak se `Q` rovna zmene entalpie `delta H` (stavova velicina) 
+
+### Termochemicke rovnice
+
++ Obsahuji udaje o reakcnim teple a vyzznacena skupenstvi vsech reakcnich slozek
+
+```
+CO2 (g) + H2 (g) -> CO (g) + H2O (g)        delta H = 41,2 kJ/mol
+```
+
++ V tabulkach najdeme standradni reakcni tepla `delta H nula`, coz jsou tepla za standardnich podminek (298 K, 101,325 kPa)
+
+Znacky skupenstvi
+```
+(g) - plyn
+(l) - tekutina
+(s) - pevna latka
+(ag) - voda
+```
+
+### Exotermicke reakce
+
++ Teplo se uvolnuje (`delta H` < 0)
+
+```
+CH4 (g) + 2O2 (g) -> CO2 (g) + 2H2O (g)     delta h = -803 kJ/mol
+```
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ac_com.svg/570px-Ac_com.svg.png">
+<p>Graf exotermicke reakce</p>
+</div>
+
+### Endotermicke reakce
+
++ Teplo se spotrebovava (`delta H` > 0)
+
+```
+CaCO3 (s) -> CaO (s) + CO2 (g)      delta H = 178 kJ/mol
+```
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Enthalpy_profile_endothermic_reaction-DE.svg/732px-Enthalpy_profile_endothermic_reaction-DE.svg.png">
+<p>Graf endotermicke reakce</p>
+</div>
+
+### Termochemicke zakony
+
++ **Prvni termochemicky zakon** - hodnota reakcniho tepla prime a zpetne reakce je az na znamenko stejna (Lavoisier a Laplace, 1780)
+
+```
+H2 (g) + I2 (g) -> 2HI (g)      delta H = -13 kJ/mol, (<- ale delta H = +13 kJ/mol)
+```
+
++ **Druhy termochemicky zakon** - celkove teplo reakce nezavisi na prubehu reakce, ale jen na pocatecnim a konecnem stavu (Hess, 1840)
+
+```
+C (s) + O2 (g) -> CO2 (g)       delta H = -393,1 kJ/mol
+C (s) + 1/2 O2 (g) -> CO (g)    delta H = -110,5 kJ/mol
+CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/mol
+```
