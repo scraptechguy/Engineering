@@ -160,5 +160,5 @@ H2 (g) + I2 (g) -> 2HI (g)      delta H = -13 kJ/mol, (<- ale delta H = +13 kJ/m
 ```
 C (s) + O2 (g) -> CO2 (g)       delta H = -393,1 kJ/mol
 C (s) + 1/2 O2 (g) -> CO (g)    delta H = -110,5 kJ/mol
-CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/mol
+CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/molx
 ```
