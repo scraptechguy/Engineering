@@ -1,6 +1,12 @@
 # Bunka
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Animal_cell_structure_cs.svg/2560px-Animal_cell_structure_cs.svg.png">
++ Zakladni stavebni a funkcni jednotka
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Animal_cell_structure_cs.svg/2560px-Animal_cell_structure_cs.svg.png">
+
+Bunka
+</div>
 
 ## Prokaryoticka bunka 
 
@@ -92,6 +98,17 @@ Deleni bunky
 </div>
 
 + **Mitoticky aparat** - rostline bunky (zahusteni cytoplazmy - cytoplazmaticke cepicky), zivocisne bunky (stala latka pripravena na vytvoreni cepicek)
+
+## Fyziologie bunky
+
+Ohranicena soustava 
+
+### Transport latek pres membranu
+
++ **Osmoticky** - roztoky oddelene polopropustnou membranou
++ **Pasivni transport** - prosta difuze (roztoky jsou oddelene propustnou blanou, pomaly pohyb do mist s nizsi koncentraci nebo male castice), zprostredkovana difuze (ve smeru koncenracniho spadu, pomoci prenasecu - charakter enzymaticke reakce) 
++ **Aktivni transport** - proti koncentracnimu spadu (je potreba energie - sodiko-draslikova pumpa, kalciova pumpa), prenasec = bilkovina neputuje - je pruchozi
++ **Cytoza** - 
 
 ## Prehled
 
