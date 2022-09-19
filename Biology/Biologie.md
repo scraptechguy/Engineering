@@ -74,7 +74,26 @@ lykopen - cervena
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Centriole-en.svg/640px-Centriole-en.svg.png">
 </div>
 
-### Prehled
+## Deleni bunek
+
++ 1 bunka materska -> 2 bunky dcerine (stejne), predchazi deleni jadra (deli se neprimym delenim - mitozou - zajisti rovnomerne rozdeleni latek), proces trva asi 30 minut
+
+```
+Profaze - priprava na deleni, chromozomy se spiralizuji, rozpadne se jaderna blana a jaderko, na polech se zahusti cytoplazma (rozdeli se centriola), vytvori se delici vretenko
+Metafaze - chromozomy se srovnaji v rovnikove rovine, zvyrazni se podelna trhlinka, centromerou se pripoji k delicimu vretenku
+Anafaze - chromozomy se rozdeli podelne podle trhlinky (oddeli se 2 chromatidy a posouvaji se k opacnym polum), na konci je na obou polech stejny pocet stejnych chromozomu
+Telofaze - vse se vraci do puvodniho stavu, u obou skupin chromozomu se vytvori jaderna blana a jaderko, rozpadne se delici vretenko, rozpusti se plazmaticke cepicky, chromozomy se prodlouzi a prestanou byt patrne
+```
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_cell_growth_types.svg/440px-Three_cell_growth_types.svg.png">
+
+Deleni bunky
+</div>
+
++ **Mitoticky aparat** - rostline bunky (zahusteni cytoplazmy - cytoplazmaticke cepicky), zivocisne bunky (stala latka pripravena na vytvoreni cepicek)
+
+## Prehled
 
 <table>
 <tr><th>Biomembrany</th><th>Typicke veci pro...</th></th><th>Slovnik</tr>
@@ -135,4 +154,3 @@ lykopen - cervena
 7. Nejvetsi blizsi zvetseni prvni
 8. Uklid (nastav nejmensi zoom zas)
 ```
-
