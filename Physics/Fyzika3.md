@@ -5,6 +5,9 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#skalarni-a-vektorove-veliciny">Skalarni a vektorove veliciny</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#chyba-mereni">Chyba mereni</a>
 
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kinematika-hmotneho-bodu">Kinematika hmotneho bodu</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
+
 # Fyzikalni veliciny a jednotky
 
 + **Fyzikalni velicina** - vyjadruje fyzikalni vlastnosti, stavy a zmeny hmotnych objektu (hmotnost, delka, napeti, ...)
@@ -372,3 +375,62 @@ Opacny smer:
 + Jestlize vyjde soucet odchylek 0, je mereni pravdepodobne spravne
 
 </td></tr> </table>
+
+
+# Kinematika hmotneho bodu
+
++ **Mechanicky pohyb** - meni-li telesa nebo jejich casti svou polohu vzhledem k jinym telesum, konaji mechanicky pohyb
+
++ **Hmotny bod** - model telesa, pri nemz se hmotnost telesa zachovava, ale jeho rozmery se zanedbavaji
+
+Pro popis pohybu telesa musime zvolit teleso, ke kteremu budeme jeho polohu vztahovat
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjonibologna.com%2Fcontent%2F2017%2F01%2Faxis.png&f=1&nofb=1">
+
+(0, 0) - vztazne teleso/vztazny bod
+</div>
+
+### Relativnost klidu a pohybu
+
++ Stejne pohybujici se telesa jsou navzajem vuci sobe v klidu, ale napr. vuci zemi v pohybu. Relativnost mechanickeho pohybu znamena, ze popis pohybu zavisi na volbe vztazne soustavy
+
++ **Trajektorie** - mnozina vsech poloh, kterymi hmotny bod pri pohybu prochazi, neni fyzikalni velicina, nema jednotku
+
++ **Draha** - **delka trajektorie**, je fyzikalni velicina, ma jednotku
+
+## Druhy pohybu
+
+### Posuvny pohyb telesa
+
++ Pri posuvnem pohybu telesa vsechny body telesa opisou za stejny cas stejnou trajektorii a libovolne primky pevne spojene s telesem zachovavaji svuj smer
+
+### Otacivy pohyb telesa
+
++ Pri otacivem pohybu telesa kolem nehybne osy opisuji body telesa kruznice se stredy v ose otaceni a tyto kruznice lezi v rovinach kolmych k ose otaceni
+
+****
+
+### Rovnomerny pohyb
+
++ Rovnomnerny pohyb kona teleso tehdy, kdyz v libovolnych, ale stejne velkych casovych intervalech urazi stejne drahy 
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kola.GIF">
+
+Rovnomerny (primocary) pohyb
+</div>
+
+Obsah obdelniku v grafu (kolmice k poloprimce rychlosti z casu po kterou se teleso hybe) je ciselne roven urazene draze
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmath.libretexts.org%2F%40api%2Fdeki%2Ffiles%2F18206%2Fa8870e33cc8e3acf2fffdd515b1d986f.png%3Frevision%3D1&f=1&nofb=1">
+
+Graf zavislosti rychlosti na case rovnomerneho pohybu
+</div>
+
+#### Pro rovnomerny pohyb plati
+
+```
+s = vt      (urazena draha = rychlost na useku / cas za ktery byl usek urazen)
+```
