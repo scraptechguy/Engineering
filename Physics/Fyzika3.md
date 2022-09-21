@@ -7,6 +7,7 @@
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kinematika-hmotneho-bodu-1">Kinematika hmotneho bodu</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#rychlost">Rychlost</a>
 
 # Fyzikalni veliciny a jednotky
 
@@ -433,4 +434,45 @@ Graf zavislosti rychlosti na case rovnomerneho pohybu
 
 ```
 s = vt      (urazena draha = rychlost na useku / cas za ktery byl usek urazen)
+```
+
++ Cim vetsi uhel svira graf zavislosti drahy na case rovnomerneho pohybu s casovou osou, tim je vetsi ruchlost pohybu telesa
+
+## Rychlost 
+
++ **Prumerna rychlost** - neni vektor (na rozdil od okamzite rychlosti), neda se vypocitat aritmetickym prumerem (kdyz je jedna rychlost 0 a druha )
+
+Priklady
+```
+t1 = 3 s        t2 = 5 s
+s1 = 15 m       s2 = 45 m 
+________________________________
+
+rychlost ve...
+
+1) t = 3 s
+    v = 15 m / 3 s
+    v = 5 m/s
+
+2) t = 5 s
+    v = 45 m / 5 s
+    v = 9 m/s
+
+3) t = 8 s
+    v = (s1 + s2) / (t1 + t2)
+    v = 7.5 m/s
+```
+
+```
+Chlapec jde rychlosti 1 m/s, v okamziku kdy je ve vzdalenosti 100 m od skoly,
+vyjde za nim spoluzak na jizdnim kole rychlosti 5 m/s
+______________________________________________________________________________
+
+
+Skola                     Cil
+  |---------X--------------|
+           100m
+
+
+...
 ```
