@@ -5,7 +5,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#skalarni-a-vektorove-veliciny">Skalarni a vektorove veliciny</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#chyba-mereni">Chyba mereni</a>
 
-#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kinematika-hmotneho-bodu">Kinematika hmotneho bodu</a>
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kinematika-hmotneho-bodu-1">Kinematika hmotneho bodu</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
 
 # Fyzikalni veliciny a jednotky
