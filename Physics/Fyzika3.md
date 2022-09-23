@@ -400,44 +400,6 @@ Pro popis pohybu telesa musime zvolit teleso, ke kteremu budeme jeho polohu vzta
 
 + **Draha** - **delka trajektorie**, je fyzikalni velicina, ma jednotku
 
-## Druhy pohybu
-
-### Posuvny pohyb telesa
-
-+ Pri posuvnem pohybu telesa vsechny body telesa opisou za stejny cas stejnou trajektorii a libovolne primky pevne spojene s telesem zachovavaji svuj smer
-
-### Otacivy pohyb telesa
-
-+ Pri otacivem pohybu telesa kolem nehybne osy opisuji body telesa kruznice se stredy v ose otaceni a tyto kruznice lezi v rovinach kolmych k ose otaceni
-
-****
-
-### Rovnomerny pohyb
-
-+ Rovnomnerny pohyb kona teleso tehdy, kdyz v libovolnych, ale stejne velkych casovych intervalech urazi stejne drahy 
-
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kola.GIF">
-
-Rovnomerny (primocary) pohyb
-</div>
-
-Obsah obdelniku v grafu (kolmice k poloprimce rychlosti z casu po kterou se teleso hybe) je ciselne roven urazene draze
-
-<div align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmath.libretexts.org%2F%40api%2Fdeki%2Ffiles%2F18206%2Fa8870e33cc8e3acf2fffdd515b1d986f.png%3Frevision%3D1&f=1&nofb=1">
-
-Graf zavislosti rychlosti na case rovnomerneho pohybu
-</div>
-
-#### Pro rovnomerny pohyb plati
-
-```
-s = vt      (urazena draha = rychlost na useku / cas za ktery byl usek urazen)
-```
-
-+ Cim vetsi uhel svira graf zavislosti drahy na case rovnomerneho pohybu s casovou osou, tim je vetsi ruchlost pohybu telesa
-
 ## Rychlost 
 
 + **Prumerna rychlost** - neni vektor (na rozdil od okamzite rychlosti), neda se vypocitat aritmetickym prumerem (kdyz je jedna rychlost 0 a druha )
@@ -476,3 +438,88 @@ Skola                     Cil
 
 ...
 ```
+
+## Druhy pohybu
+
+### Posuvny pohyb telesa
+
++ Pri posuvnem pohybu telesa vsechny body telesa opisou za stejny cas stejnou trajektorii a libovolne primky pevne spojene s telesem zachovavaji svuj smer
+
+### Otacivy pohyb telesa
+
++ Pri otacivem pohybu telesa kolem nehybne osy opisuji body telesa kruznice se stredy v ose otaceni a tyto kruznice lezi v rovinach kolmych k ose otaceni
+
+****
+
+### Rovnomerny pohyb
+
++ Rovnomnerny pohyb kona teleso tehdy, kdyz v libovolnych, ale stejne velkych casovych intervalech urazi stejne drahy 
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kola.GIF">
+
+Rovnomerny (primocary) pohyb
+</div>
+
+Obsah obdelniku v grafu (kolmice k poloprimce rychlosti z casu po kterou se teleso hybe) je ciselne roven urazene draze
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmath.libretexts.org%2F%40api%2Fdeki%2Ffiles%2F18206%2Fa8870e33cc8e3acf2fffdd515b1d986f.png%3Frevision%3D1&f=1&nofb=1">
+
+Graf zavislosti rychlosti na case rovnomerneho pohybu
+</div>
+
+#### Pro rovnomerny pohyb plati
+
+```
+s = vt      (urazena draha = rychlost na useku / cas za ktery byl usek urazen)
+```
+
++ Cim vetsi uhel svira graf zavislosti drahy na case rovnomerneho pohybu s casovou osou, tim je vetsi ruchlost pohybu telesa
+
+### Rovnomerny zrychleny pohyb
+
++ Vektor rychlosti se meni, **neni konstantni**. Pri zrychlenem pohybu telesa se velikost rychlosti s casem meni. Smer je konstantni, nemeni se, ale velikost se meni. 
+
+```
+    --->            ------------>
+___|_______________|_____________________
+
+   t1              t2    
+```
+
++ Za casovy interval `delta t = t2 - t1` se vektor okamzite rychlosti zmeni o `delta v = v2 - v1`
+
+```
+                v2
+            ------------>
+            ----><-------
+        delta v      -v1
+```
+
+`delta v` - vektor zmeny okamzite rychlosti, udava prirustek rychlosti za casovy interval `delta t`
+
+#### Zrychleni
+
++ Zrychleni je fyzikalni velicina, ktera udava zmenu okamzite rychlosti za jednotku casu. Zrychleni je urceno podilem zmeny okamzite rychlosti a odpovidajici doby, za kterou zmena nastala...
+
+```
+      |delta v|
+|a| = ----------
+       delta t
+```
+
++ Vektor zrychleni ma stejny smer jako vektor zmeny okamzite rychlosti. Ma smer pohybu telesa
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmathsteacher.com.au%2Fyear10%2Fch03_linear_graphs%2F03_equation%2FImage3673.gif&f=1&nofb=1">
+
+Graf zavislosti rychlosti rovnomerneho pohybu na case
+</div>
+
++ Velikost rychlosti roste primo umerne s casem - rychlost je rostouci linearni funkci casu
+
+```
+s = 1/2 at^2     s = 1/2 vt      s = 1/2 vtt
+```
+
