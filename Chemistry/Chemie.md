@@ -162,3 +162,16 @@ C (s) + O2 (g) -> CO2 (g)       delta H = -393,1 kJ/mol
 C (s) + 1/2 O2 (g) -> CO (g)    delta H = -110,5 kJ/mol
 CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/molx
 ```
+
+### Energie
+
++ **Vazebna energie** - uvolni se pri vzniku vazby (`- kJ/mol`)
++ **Disociacni energie** - nutna ke stepeni vazby (`+ kJ/mol`)
+
+| Typ vazby | Vazebna energie</br>(kJ/mol) | Typ vazby  | Vazebna energie</br>(kJ/mol) |
+|-----------|------------------------------|------------|------------------------------|
+| `H-H`     | **431,0**                    | `C-C`      | **347,0**                    |
+| `F-F`     | **158,8**                    | `C=C`      | **607,0**                    |
+| `Cl-Cl`   | **247,2**                    | `CEC`      | **837,0**                    |
+| `H-F`     | **568,5**                    | `C-H`      | **415,1**                    |
+| `H-Cl`    | **430,5**                    | `C-F`      | **484,9**                    |
