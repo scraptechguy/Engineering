@@ -10,6 +10,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zrychleni">Zrychleni</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
 
+****
 
 # Fyzikalni veliciny a jednotky
 
