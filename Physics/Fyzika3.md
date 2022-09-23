@@ -413,6 +413,17 @@ ________________________________
 rychlost ve...
 
 1) t = 3 s
+2) t = 5 s
+3) t = 8 s
+```
+
+<details>
+  <summary>
+    Reseni
+  </summary>
+
+```
+1) t = 3 s
     v = 15 m / 3 s
     v = 5 m/s
 
@@ -424,6 +435,8 @@ rychlost ve...
     v = (s1 + s2) / (t1 + t2)
     v = 7.5 m/s
 ```
+</details>
+
 
 ```
 Chlapec jde rychlosti 1 m/s, v okamziku kdy je ve vzdalenosti 100 m od skoly,
@@ -434,10 +447,18 @@ ______________________________________________________________________________
 Skola                     Cil
   |---------X--------------|
            100m
-
-
-...
 ```
+
+<details>
+  <summary>
+    Reseni
+  </summary>
+
+```
+
+```
+
+</details>
 
 ## Druhy pohybu
 
@@ -523,3 +544,22 @@ Graf zavislosti rychlosti rovnomerneho pohybu na case
 s = 1/2 at^2     s = 1/2 vt      s = 1/2 vtt
 ```
 
+```
+Hmotny bod urazi za domu 6 s drahu 18 m. Jeho pocatecni rychlost byla 1,5 m/s.
+Urcete velikost zrychleni hmotneho bodu a velikost jeho rychlosti na konci drahy
+
+v0 = 1.5 m/s
+t = 6 s
+s = 18 s
+________________________________________
+```
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+
+```
+
+</details>
