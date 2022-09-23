@@ -2,6 +2,14 @@
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#tvoreni-nazvoslovi-1">Tvoreni nazvoslovi</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#prehled-nazvoslovi">Prehled nazvoslovi</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#kyslikate-kyseliny-a-jejich-soli">Kyslikate kyseliny a jejich soli</a>
+
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#termochemie-1">Termochemie</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#termochemicke-zakony">Termochemicke zakony</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#energie">Energie</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#reakcni-kinetika">Reakcni kinetika</a>
+
+****
 
 # Tvoreni nazvoslovi
 
