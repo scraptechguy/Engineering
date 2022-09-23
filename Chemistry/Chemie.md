@@ -175,3 +175,47 @@ CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/molx
 | `Cl-Cl`   | **247,2**                    | `CEC`      | **837,0**                    |
 | `H-F`     | **568,5**                    | `C-H`      | **415,1**                    |
 | `H-Cl`    | **430,5**                    | `C-F`      | **484,9**                    |
+
+Priklady
+```
+
+```
+
+### Reakcni kinetika
+
++ Zabyva se rychlosti chemickych reakci a faktory ktere ji ovlivnuji
+
+Prirustek latkoveho mnozstvi produktu za jednotku casu
+
+```
+H2 + I2 -> 2HI      v = delta n(HI) / delta t
+```
+
+Ubytek latkoveho mnozstvi vychozich latek za jednotku casu
+
+```
+H2 + I2 -> 2HI      v = -delta n(H2) / delta t
+```
+
++ **Molarni koncentrace** (moly na dm^3)
+
+```
+C = n / V
+```
+
+#### Faktory ovlivnujici reakce
+
++ **Koncentrace** - reakcni rychlost je primo umerna soucinu koncentraci vychozich latek
+
+```
+v = k * [prvek] * [prvek]
+```
+Kde `k` je rychlosti konstanta (primo umerne zavisla na teplote), hranate zavorky jsou znakem koncentrace
+
+Rad reakce je soucet stechiometrickych koeficientu vstupnich latek
+
++ **Teplota** - zvysenim teploty se zvysi pohyb castic a tim i pocet srazek
+
++ **Katalyzatory** - zvysuji rychlost chemicke reakce, ale samy se chemickou reakci nemeni, meni reakcni mechanismus (snizuje `E_A` - energicky vyhodnejsi). Negativni katalyzaory se nazivaji **inhibitory**
+
+<a href="https://docs.google.com/document/d/1WuhtQLGcRo1vVfdxFqZzIIHgU4S1gzHMvdAfGM2CfDs/edit?usp=sharing">Pracovni list</a>
