@@ -6,8 +6,10 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#chyba-mereni">Chyba mereni</a>
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kinematika-hmotneho-bodu-1">Kinematika hmotneho bodu</a>
-+ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#rychlost">Rychlost</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zrychleni">Zrychleni</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
+
 
 # Fyzikalni veliciny a jednotky
 
@@ -460,6 +462,50 @@ Skola                     Cil
 
 </details>
 
+## Zrychleni
+
++ Zrychleni je fyzikalni velicina, ktera udava zmenu okamzite rychlosti za jednotku casu. Zrychleni je urceno podilem zmeny okamzite rychlosti a odpovidajici doby, za kterou zmena nastala...
+
+```
+      |delta v|
+|a| = ----------
+       delta t
+```
+
++ Vektor zrychleni ma stejny smer jako vektor zmeny okamzite rychlosti. Ma smer pohybu telesa
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmathsteacher.com.au%2Fyear10%2Fch03_linear_graphs%2F03_equation%2FImage3673.gif&f=1&nofb=1">
+
+Graf zavislosti rychlosti rovnomerneho pohybu na case
+</div>
+
++ Velikost rychlosti roste primo umerne s casem - rychlost je rostouci linearni funkci casu
+
+```
+s = 1/2 at^2     s = 1/2 vt      s = 1/2 vtt
+```
+
+```
+Hmotny bod urazi za domu 6 s drahu 18 m. Jeho pocatecni rychlost byla 1,5 m/s.
+Urcete velikost zrychleni hmotneho bodu a velikost jeho rychlosti na konci drahy
+
+v0 = 1.5 m/s
+t = 6 s
+s = 18 s
+________________________________________
+```
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+
+```
+
+</details>
+
 ## Druhy pohybu
 
 ### Posuvny pohyb telesa
@@ -519,47 +565,3 @@ ___|_______________|_____________________
 ```
 
 `delta v` - vektor zmeny okamzite rychlosti, udava prirustek rychlosti za casovy interval `delta t`
-
-#### Zrychleni
-
-+ Zrychleni je fyzikalni velicina, ktera udava zmenu okamzite rychlosti za jednotku casu. Zrychleni je urceno podilem zmeny okamzite rychlosti a odpovidajici doby, za kterou zmena nastala...
-
-```
-      |delta v|
-|a| = ----------
-       delta t
-```
-
-+ Vektor zrychleni ma stejny smer jako vektor zmeny okamzite rychlosti. Ma smer pohybu telesa
-
-<div align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmathsteacher.com.au%2Fyear10%2Fch03_linear_graphs%2F03_equation%2FImage3673.gif&f=1&nofb=1">
-
-Graf zavislosti rychlosti rovnomerneho pohybu na case
-</div>
-
-+ Velikost rychlosti roste primo umerne s casem - rychlost je rostouci linearni funkci casu
-
-```
-s = 1/2 at^2     s = 1/2 vt      s = 1/2 vtt
-```
-
-```
-Hmotny bod urazi za domu 6 s drahu 18 m. Jeho pocatecni rychlost byla 1,5 m/s.
-Urcete velikost zrychleni hmotneho bodu a velikost jeho rychlosti na konci drahy
-
-v0 = 1.5 m/s
-t = 6 s
-s = 18 s
-________________________________________
-```
-<details>
-<summary>
-  Reseni
-</summary>
-
-```
-
-```
-
-</details>
