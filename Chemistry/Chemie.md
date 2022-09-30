@@ -8,6 +8,8 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#termochemicke-zakony">Termochemicke zakony</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#energie">Energie</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#reakcni-kinetika">Reakcni kinetika</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#chemicka-rovnovaha">Chemicka rovnovaha</a>
+
 
 ****
 
@@ -155,7 +157,7 @@ CaCO3 (s) -> CaO (s) + CO2 (g)      delta H = 178 kJ/mol
 <p>Graf endotermicke reakce</p>
 </div>
 
-### Termochemicke zakony
+## Termochemicke zakony
 
 + **Prvni termochemicky zakon** - hodnota reakcniho tepla prime a zpetne reakce je az na znamenko stejna (Lavoisier a Laplace, 1780)
 
@@ -189,7 +191,7 @@ Priklady
 
 ```
 
-### Reakcni kinetika
+## Reakcni kinetika
 
 + Zabyva se rychlosti chemickych reakci a faktory ktere ji ovlivnuji
 
@@ -227,3 +229,64 @@ Rad reakce je soucet stechiometrickych koeficientu vstupnich latek
 + **Katalyzatory** - zvysuji rychlost chemicke reakce, ale samy se chemickou reakci nemeni, meni reakcni mechanismus (snizuje `E_A` - energicky vyhodnejsi). Negativni katalyzaory se nazivaji **inhibitory**
 
 <a href="https://docs.google.com/document/d/1WuhtQLGcRo1vVfdxFqZzIIHgU4S1gzHMvdAfGM2CfDs/edit?usp=sharing">Pracovni list</a>
+
+## Chemicka rovnovaha
+
+```
+H2 + I2 --><-- 2HI
+        v1  v2
+
+      v1 = v2
+```
+
++ **Rovnovazna konstanta** `K` - soucin koncentraci produktu / soucin koncentraci vychozich latek
+
+```
+ k1      [HI]^2
+---- = -----------
+ k2     [H2][I2]
+```
+
+### Posun rovnovahy
+
+Katalyzatory neovlivnuji rovnovahu, ale...
+
++ **Zmena koncentrace** - zvyseni koncentrace vychozich latek -> posouva se k produktum, snizeni koncentrace produktu -> posouva se k produktum - vymacka z vychozich latek nejvic
+
+```
+^c vychozich latek -> k produktum
+vc produktu -> k produktum 
+```
+
++ **Zmena teploty** - chlazeni/ohrivani zalezi na `delta h`
+
+```
+^t -> k endotermicke reakci
+vt -> k exotermicke reakci
+```
+
++ **Zmena tlaku** - musi byt plyny, stejne latkove mnozstvi na obou stranach reakce - nejde ovlivnit tlakem
+
+```
+^p -> k nizsim latkovym mnozstvim
+vp -> k vetsim latkovym mnozstvim
+```
+
+### Rovnovahy v protolytickych reakcich
+
++ Vymena `H+` (prtonu) mezi kyselinou a zasadou -> acidobazicke reakce
+
+#### Teorie kyselin a zasad
+
++ **Arrheniova teorie** - kyseliny odstepuji `H+` (`HCl -> H+ + Cl-`), zasada odstepuje `OH-` (`NaOH -> Na+ + OH-`)
+
++ **Bronstedova teorie** - kyseliny odstepuji `H+` (`HCl + H2O -> H3O+ + Cl-`), zasada prima `H+` (`NH3 + H2O -> NH4 + OH-`)
+
++ **Lewisova teorie** - kyseliny maji volny orbital, zasady maji volny elektricky par
+
+```
+ k     b        k      b
+HCl + H2O -><- H3O+ + Cl-
+
+k-b - konjugovany par
+```
