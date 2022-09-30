@@ -122,6 +122,10 @@
 </td></tr> 
 </table>
 
+<div align="left">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>
+
 ## Skalarni a vektorove veliciny
 
 + **Skalarni** veliciny jsou urceny ciselnou hodnoutou a jednotkou (cas, hmotnost, draha, tlak, energie, ...)
@@ -566,3 +570,63 @@ ___|_______________|_____________________
 ```
 
 `delta v` - vektor zmeny okamzite rychlosti, udava prirustek rychlosti za casovy interval `delta t`
+
+### Rovnomerny zpomaleny pohyb
+
++ Zpomaleny pohub kona teleso tehdy, poklesne-li kazdou sekundu velikost rychlosti pohybu o stejnou hodnotu 
+
+```
+t0 > t          Pocatecni rychlost nemuze byt 0
+```
+
++ Vektor rychlosti se meni, **neni konstantni**. Smer je konstatni, nemeni se, ale velikost se meni. Pri zpomalenem pohybu telesa velikost rychlosti s casem klesa.
+
++ Za casovy interval `delta t = t2 - t1` se vektor okamzite rychlosti zmeni o `delta v = v2 - v1`
+
+```
+            v2        delta v
+            <---0------->
+            ------------>
+                -v1
+```
+
+`delta v` - vektor zmeny okamzite rychlosti
+
++ Vektor zrychleni ma tyz smer jako vektor zmeny okamzite rychlosti, ma smer **proti pohybu** telesa. Znamenko **minus** pri vypoctech zrychleni znamena zpomaleny pohyb.
+
+```
+v = v0 - at
+```
+
+Minus je obsazeno v rovnici, nesmi se dosadit znovu k `a`
+
+```
+Nad vezi radnice proletelo letadlo stalou rychlosti 600 km/h,
+za 15 minut po nem proudove letadlo stalou rychlosti 1200 km/h.
+Za jakou dobu a v jake vzdalenosti se setkaji?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+v1 = 600 km/h (167 m/s)
+v2 = 1200 km/h (333 m/s)
+t2 = 15 min (900 s)
+
+t = ? s
+s = ? m
+_________________________________
+
+s1 = s2
+s1 = v1 * t
+s2 = v2 * (t - t2)
+
+(600 / 4) * 2 = 300 km
+30 min
+```
+
+</details>
+
