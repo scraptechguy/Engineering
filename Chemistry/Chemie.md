@@ -228,7 +228,7 @@ Rad reakce je soucet stechiometrickych koeficientu vstupnich latek
 
 + **Katalyzatory** - zvysuji rychlost chemicke reakce, ale samy se chemickou reakci nemeni, meni reakcni mechanismus (snizuje `E_A` - energicky vyhodnejsi). Negativni katalyzaory se nazivaji **inhibitory**
 
-<a href="https://docs.google.com/document/d/1WuhtQLGcRo1vVfdxFqZzIIHgU4S1gzHMvdAfGM2CfDs/edit?usp=sharing">Pracovni list</a>
+<a href="https://docs.google.com/document/d/1WuhtQLGcRo1vVfdxFqZzIIHgU4S1gzHMvdAfGM2CfDs/edit?usp=sharing" target="_blank">Pracovni list</a>
 
 ## Chemicka rovnovaha
 
