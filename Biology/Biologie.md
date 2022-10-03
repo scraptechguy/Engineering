@@ -183,3 +183,12 @@ Ohranicena soustava
 7. Nejvetsi blizsi zvetseni prvni
 8. Uklid (nastav nejmensi zoom zas)
 ```
+
+# Viry, bakterie, priony
+
++ **Virion** - jednotliva virova castecka
+
+## Priony
+
++ Jinak taky **nekonvencni viry** - 1986 objevili se silene kravy (crazy), velmi odolne (matrice, podle ktere se zasmodrchaji zdrave molekuly)
+
