@@ -9,6 +9,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#rychlost">Rychlost</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zrychleni">Zrychleni</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#volny-pad">Volny pad</a>
 
 ****
 
@@ -630,3 +631,70 @@ s2 = v2 * (t - t2)
 
 </details>
 
+## Volny pad
+
++ Je pad volne spustenych teles (bez udeleni pocatecni rychlosti). Je primocary a **rovnomerne zrychleny** - s konstantnim `g`. Zrychleni volneho padu `g` se nazyva **tihove zrychleni**
+
+```
+g Zeme = 9.80665 ms^-2 ~ 10 ms^-2
+```
+
++ Velikost rychlosti roste primo umerne s casem, rychlost je roustouci linearni funkci casu. Grafem je cast krivky, kterou nazyvame **parabola**
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmathsteacher.com.au%2Fyear10%2Fch03_linear_graphs%2F03_equation%2FImage3673.gif&f=1&nofb=1">
+
+Graf zavislosti rychlosti padu na case
+</div>
+
+## Rovnomerny pohyb po kruznici
+
++ Za stejne libovolne zvolene casove useky opise hmotny bod na kruznici stejne dlouhe oblouky `delta s`, kterym prislusi stejne velke uhly `delta phi`
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.nabla.cz%2Fobsah%2Ffyzika%2Fmechanika%2Fimg%2Frovnomerny-pohyb-po-kruznici%2Fsedm.jpg&f=1&nofb=1&ipt=4d9a37c44a91884b961a41104b0e709c121760368f407a69f5745acbfd2d802e&ipo=images">
+
+Pohyb hmotneho bodu po kruznici
+</div>
+
++ Velikost rychlosti je dana podilem velikosti drahy `delta s` a prislusne doby `delta t`, za kterou hmotny bod tuto drahu prosel. Pri rovnomernem pohybu je velikost rychlosti stala. 
+
+```
+    delta s
+v = -------
+    delta t
+```
+
++ Vektor okamzite rychlosti v danem bode ma smer tecny k trajektorii tvaru kruznice (je kolmy k polomeru)
+
++ **Perioda pohybu** (obezna doba) - doba za niz se rovnomerny pohyb po kruznici opakuje. Frekvence je pak prevracena hodnota periody, urcuje pocet obehu po kruznici za jednu sekundu
+
+```
+    2 pi r
+v = ------
+      T
+```
+
++ Rovna-li se draha `delta s` obvodu kruznice, potom prislusna doba, za kterou hmotny bod tuto drahu prosel, je `T`
+
++ **Uhlova rychlost** - je urcena pomerem uhlu a doby, za kterou hmotny bod tento uhel opsal, jednotkou jsou radiany za sekundu. Rovna-li se draha `delta s` obvodu kruznice, potom prislusny uhel je `2pi rad` a hmotny bod tento uhel opsal za dobu `T`
+
+```
+        delta phi                2pi
+omega = ---------       omega = ----- 
+         delta t                  T
+```
+
++ Rychlost pri pohybu hmotneho bodu po kruznici vypocitame, vynasobime-li uhlovou rychlost polomerem
+
+```
+v = omega * r
+```
+
++ Rovnomerny pohyb hmotneho bodu po kruznici je pohyb **se zrychlenim**, protoze pri tomto pohybu nastava neustale zmena smeru vektoru okamzite rychlosti
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.nabla.cz%2Fobsah%2Ffyzika%2Fmechanika%2Fimg%2Frovnomerny-pohyb-po-kruznici%2Fdvacetsedm.jpg&f=1&nofb=1&ipt=6c2fbcb2c8183698c1f5eec9ec85fbb1ff0e9d00c576226900ea55defaa6aca5&ipo=images">
+
+Baaaah nevim
+</div>
