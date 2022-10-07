@@ -696,5 +696,5 @@ v = omega * r
 <div align="center">
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.nabla.cz%2Fobsah%2Ffyzika%2Fmechanika%2Fimg%2Frovnomerny-pohyb-po-kruznici%2Fdvacetsedm.jpg&f=1&nofb=1&ipt=6c2fbcb2c8183698c1f5eec9ec85fbb1ff0e9d00c576226900ea55defaa6aca5&ipo=images">
 
-Baaaah nevim
+Dukaz zrychleni pri rovnomernem pohybu po kruznici
 </div>
