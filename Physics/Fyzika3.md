@@ -10,6 +10,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zrychleni">Zrychleni</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-pohybu">Druhy pohybu</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#volny-pad">Volny pad</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#rovnomerny-pohyb-po-kruznici">Rovnomerny pohyb po kruznici</a>
 
 ****
 
