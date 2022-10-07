@@ -290,3 +290,50 @@ HCl + H2O -><- H3O+ + Cl-
 
 k-b - konjugovany par
 ```
+
+### Sila kyselin 
+
+Vyjadruje se pomoci **disociacni konstanty** `K_A`. Je rovna podilu soucinu 
+
+```
+HCl + H2O <--> Cl- + H3O+
+
+      [Cl-][H3O+]
+K_C = -----------
+      [HCl][H2O]
+
+
+      [Cl-][H3O+]           [Cl-][H3O+]
+K_A = ----------- * [H2O] = -----------
+      [HCl][H2O]               [HCl]
+```
+
++ **Slabe** kyseliny - `K_A` < 10^-4, bezkyslikate (HF, H2S, HCN)
++ **Stredne silne** kyseliny - `K_A` < 10^-2
++ **Silna** kyseliny - `K_A` > 10^-2, bezkyslikate (HCl, HBr, HI)
+
+```
+Bezkyslikate
+
+        |
+        |  HCl
+silne   |  HBr
+        |  HI
+        V
+
+Kyslikate kyseliny 
+
+    HzXOy
+        y - z < 2 - slabe
+        y - z >= - silne
+```
+
+### Sila zasad
+
+```
+NH3 + H2O <--> NH4+ + OH-
+```
+
++ Silne baze
+
++ Slabe baze
