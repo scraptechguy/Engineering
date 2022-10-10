@@ -192,3 +192,9 @@ Ohranicena soustava
 
 + Jinak taky **nekonvencni viry** - 1986 objevili se silene kravy (crazy), velmi odolne (matrice, podle ktere se zasmodrchaji zdrave molekuly)
 
+## Viry
+
+## Bakterie
+
+## Pletiva
+
