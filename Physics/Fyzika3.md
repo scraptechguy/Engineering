@@ -699,3 +699,119 @@ v = omega * r
 
 Dukaz zrychleni pri rovnomernem pohybu po kruznici
 </div>
+
++ Vektor okamziteho zrychleni `a` rovnomerneho pohybu hmotneho bodu po kruznici ma v kazdem okamziku ma smer do stredu trajektorie tvaru kruznice, je to **dostredive zrychleni**
+
+```
+a = omega^2 * r = omega * v = 4pi^2 * f^2 * r
+```
+
+Priklady
+
+```
+1. Okruzni pila ma prumer 254 mm a doporucenou reznou rychlost 60 m/s.
+Jake otacky ma za provozu?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+O = pi * d
+O = 798 mm (0.8 m)
+
+n = 60 m/s / 0.8 m = 75 otacek / s
+```
+
+</details>
+
+```
+2. Jakou pribliznou rychlosti rotuji body na povrchu Zeme na rovniku? Jakou v Praze?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+R zeme = 6 378 km
+O_R = 40 053 km
+v_R = 40 053 km / 24 h = 1 669 km/h
+
+r (vzdalenost prahy od osy) = cos alpha * R
+r = 4 100 km
+O_r = 25 748 km
+v_r = 25 748 km / 24 h = 1 073 km/h
+```
+
+</details>
+
+```
+3. Osobni automobil jede rychlosti 100 km/h. Prumer jeho pneumatik je 60 cm.
+Kolik otacek vykonaji kola za minutu?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+O = pi * d
+O = 1.88 m 
+
+n = 100 000 m / 0.6 m / 60 = 2 778 otacek / min
+```
+
+</details>
+
+# Dynamika hmotneho bodu
+
+**Dynamika** se zabiva pricinami pohybu.
+
+## Vzajemne pusobeni teles
+
++ Vzajemne pusobeni teles znamena, ze pusobeni neni jednostranne. Pusobi-li teleso `A` na teleso `B`, pak take teleso `B` pusobi na teleso `A`
+
+Vysledkem vzajemneho pusobeni teles muze byt...
+
+```
+1. deformace telesa
+2. zmena pohyboveho stavu telesa
+```
+
+Vzajemne pusobeni teles se muze uskutecnit...
+
+```
+1. vzajemnym stykem teles
+2. prostrednictvim fyzikalnich poli
+```
+
++ Velikost vzajemneho pusobeni teles popisujeme pomoci fyzikalni veliciny **sila**
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fquritocloud%2Fimage%2Fupload%2Fv1532106278%2Fj9sulxztalxomnhq9qis.png&f=1&nofb=1&ipt=7a5e19a926f79087703a6500b9ff8011021c647da71cde2c157d33319b448409&ipo=images">
+
+Magneticke pole
+</div>
+
++ Jsou-li telesa od sebe dost daleo, jejich vzajemne pusobeni nepozorujeme. Teleso, ktere je od vsech ostatnich teles v dostatecne vzdalenosti a nepusobi na nej zadne pole, se nazyva izolovane teleso. Zanedbame-li rozmery telesa, hovorime o **izolovanem hmotnem bode**. 
+
++ Gravitacni silove pusobeni na teleso polozene na podloze nebo zavesene je vykompenzovane dalsi silou. Jako izolovana telesa se chovaji vsechna telesa, pri nichz je silove pusobeni ostatnich teles vykompenzovano. 
+
+## Prvni newtonuv zakon
+
++ Jestliže na těleso (hmotu) nepůsobí žádné vnější síly, nebo výslednice sil je 0, pak těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu.
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffarside.ph.utexas.edu%2Fteaching%2Fcelestial%2FCelestial%2Fimg94.png&f=1&nofb=1&ipt=7158335313bf99dc70c8602796d48694452ccf7f9d4f69437ed65399af222555&ipo=images">
+
+Newtonuv prvni zakon
+</div>
+
++ Vztazne soustavy, v nichz izolovane hmotne body zustavaji v klidu nebo v rovnomernem primocarem pohybu, se nazyvaji inercialni vztazne soustavy.
+
++ Setrvacnost je vlastnost izolovanych teles zustavat v inercialnich vztaznych soustavach v klidu nebo v rovnomernem primocarem pohybu.
