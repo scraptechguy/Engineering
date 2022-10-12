@@ -12,6 +12,10 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#volny-pad">Volny pad</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#rovnomerny-pohyb-po-kruznici">Rovnomerny pohyb po kruznici</a>
 
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#dynamika-hmotneho-bodu-1">Dynamika hmotneho bodu</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#vzajemne-pusobeni-teles">Vzajemne pusobeni teles</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#prvni-newtonuv-zakon">Prvni newtonuv zakon</a>
+
 ****
 
 # Fyzikalni veliciny a jednotky
