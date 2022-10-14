@@ -359,3 +359,35 @@ C + O2 -> CO2
 + Oxidacni cinidlo - oxiduje jine prvky, sam sebe redukuje
 
 + Redukcni cinidlo - redukuje jine prvky, sam sebe oxiduje
+
+### Beketonova rada kovu 
+
+```
+    neuslechtile kovy            uslechtile
+
+Li K Ca Na Mg Zn Cr Te Sn Pb || Cu Hg Ag Pt Au 
+
+<------------------ rust redukcnich vlastnosti
+```
+
++ **Neuslechtile kovy** - zaporne hodnoty elektrochemickych potencialu, reaguji s kyselinami vytesnenim vodiku...
+
+```
+2Al + 3H2SO4 -> Al2(SO4)3 + 3H2
+Zn + 2HCl -> ZnCl2 + H2
+```
+
++ **Uslechtile kovy** - kladne hodnoty elektrochemickych potencialu, nereaguji s `HCl` ani se zredenou `H2SO4` 
+
+```
+Cu + H2SO4 -> CuSO4 + SO2 + H2O
+```
+
+### Vycislovani redoxnich reakci 
+
+```
+8HI + 1H2SO4 -> 4I2 + 1H2S + 4H2O
+
+ox I I - 1 e- -> I 0          1  x  8
+red S VI + 8 e- -> S -II      8  x  1
+```
