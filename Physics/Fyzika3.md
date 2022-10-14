@@ -14,7 +14,10 @@
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#dynamika-hmotneho-bodu-1">Dynamika hmotneho bodu</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#vzajemne-pusobeni-teles">Vzajemne pusobeni teles</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#hybnost-telesa">Hybnost telesa</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#prvni-newtonuv-zakon">Prvni newtonuv zakon</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-newtonuv-zakon">Druhy newtonuv zakon</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treti-newtonuv-zakon">Treti newtonuv zakon</a>
 
 ****
 
@@ -806,6 +809,48 @@ Magneticke pole
 
 + Gravitacni silove pusobeni na teleso polozene na podloze nebo zavesene je vykompenzovane dalsi silou. Jako izolovana telesa se chovaji vsechna telesa, pri nichz je silove pusobeni ostatnich teles vykompenzovano. 
 
+## Hybnost telesa
+
++ Soucin hmotnosti a velikosti okamzite rychlosti telesa se ve fyzice nazyva velikost hybnosti telesa
+
+```
+p = mv     (kg * m / s)
+```
+
++ Protoze okamzita rychlost je vektoroa velicina, je vektorova velicina take hybnost telesa. Telesa maji hybnost (nulovou) i kdyz se nehybou. 
+
+#### Rovnomerny primocary pohyb
+
++ Pri rovnomernem primocarem pohybu, za casovy interval `delta t = t2 - t1` nastane zmena hybnosti `delta p`
+
+```
+delta p = p2 - p1 = 0
+```
+
++ Vektor hybnosti se pri rovnomernem pohybu nemeni, zmena hybnosti pri rovnomernem pohybu je nulova
+
+#### Rovnomerne zrychleny pohyb
+
++ Pri rovnomerne zrychlenem pohybu, za casovy interval `delta t = t2 - t1` nastane zmena hybnosti `delta p`
+
+```
+delta p = p2 - p1 = mv2 - mv1
+delta p = m(v2 - v1)
+```
+
++ Vektor zmeny hybnosti pri rovnomerne zrychlenem pohybu ma **smer pohyu telesa**
+
+#### Rovnomerne zpomaleny pohyb 
+
++ Pri rovnomerne zpomalenem pohybu, za casovy interval `delta t = t2 - t1` nastane zmena hybnosti `delta p`
+
+```
+delta p = p2 - p1 = mv2 - mv1
+delta p = m(v2 - v1)
+```
+
++ Vektor zmeny hybnosti pri rovnomerne zpomalenem pohybu ma smer proti pohybu telesa. Znamenko minus znamena jen jiny smer vektoru hybnosti
+
 ## Prvni newtonuv zakon
 
 + Jestliže na těleso (hmotu) nepůsobí žádné vnější síly, nebo výslednice sil je 0, pak těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu.
@@ -819,3 +864,37 @@ Newtonuv prvni zakon
 + Vztazne soustavy, v nichz izolovane hmotne body zustavaji v klidu nebo v rovnomernem primocarem pohybu, se nazyvaji inercialni vztazne soustavy.
 
 + Setrvacnost je vlastnost izolovanych teles zustavat v inercialnich vztaznych soustavach v klidu nebo v rovnomernem primocarem pohybu.
+
+## Druhy newtonuv zakon
+
++ Jestliže na těleso (hmotu) působí síla, pak se těleso pohybuje zrychlením, které je přímo úměrné působící síle a nepřímo úměrné hmotnosti tělesa.
+
+```
+      |delta p|
+|F| = ---------
+       delta t
+```
+
++ Aby se teleso s hmotnosti `m` v inercialni vztazne soustave pohybovalo se zrychlenim `a`, musi na ne okolni objekty pusobit vysledni silou...
+
+```
+|F| = m|a|
+```
+
+...kde `|F|` je vektor sily, `m` je hmotnost telesa, `|a|` je vektor zrychleni. Vektory sily a zrychleni maji podle teto rovnice stejny smer.
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Free_body1.3.svg/2560px-Free_body1.3.svg.png">
+
+Diagram volneho telesa pro blok na naklonene rovine
+</div>
+
+Zmena vektoru hybnosti s casem nastava u pohybu...
+
+```
+1. rovnomerne zrychleneho
+2. rovnomerne zpomaleneho
+3. rovnomerneho po kruznici 
+```
+
+## Treti newtonuv zakon
