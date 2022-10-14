@@ -312,6 +312,10 @@ K_A = ----------- * [H2O] = -----------
 + **Stredne silne** kyseliny - `K_A` < 10^-2
 + **Silna** kyseliny - `K_A` > 10^-2, bezkyslikate (HCl, HBr, HI)
 
+***
+Vsechny organicke kysliny jsou slabe
+***
+
 ```
 Bezkyslikate
 
@@ -337,3 +341,21 @@ NH3 + H2O <--> NH4+ + OH-
 + Silne baze
 
 + Slabe baze
+
+***
+test
+
+### Rovnovaha redoxnich reakci 
+
++ Oxidace - oxidacni cislo se zvysuje, odevzdavani `e-`
+
++ Redukce - oxidacni cislo se snizuje, prijem `e-`
+
+```
+C + O2 -> CO2
+0   0    4  -2       - uhlik se oxiduje, kyslik se redukuje
+```
+
++ Oxidacni cinidlo - oxiduje jine prvky, sam sebe redukuje
+
++ Redukcni cinidlo - redukuje jine prvky, sam sebe oxiduje
