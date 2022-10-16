@@ -33,8 +33,7 @@
 
 <div align="right">
     <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
-</div>
-    
+</div>    
 
 ## Rozdeleni fyzikalnich velicin a jednotek
 
@@ -136,9 +135,9 @@
 </td></tr> 
 </table>
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
-</div>
+</div>    
 
 ## Skalarni a vektorove veliciny
 
@@ -347,6 +346,10 @@ Opacny smer:
     |F| = 15 N - 20 N = |-5 N| = 5 N
 ```
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Chyba mereni
 
 + Fyzikalni mereni dane veliciny se dela vzdy s urcitou presnosti, chyby mereni jsou vsudypritomne...
@@ -399,6 +402,10 @@ Opacny smer:
 </td></tr> </table>
 
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 # Kinematika hmotneho bodu
 
 + **Mechanicky pohyb** - meni-li telesa nebo jejich casti svou polohu vzhledem k jinym telesum, konaji mechanicky pohyb
@@ -420,6 +427,10 @@ Pro popis pohybu telesa musime zvolit teleso, ke kteremu budeme jeho polohu vzta
 + **Trajektorie** - mnozina vsech poloh, kterymi hmotny bod pri pohybu prochazi, neni fyzikalni velicina, nema jednotku
 
 + **Draha** - **delka trajektorie**, je fyzikalni velicina, ma jednotku
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Rychlost 
 
@@ -481,6 +492,10 @@ Skola                     Cil
 
 </details>
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Zrychleni
 
 + Zrychleni je fyzikalni velicina, ktera udava zmenu okamzite rychlosti za jednotku casu. Zrychleni je urceno podilem zmeny okamzite rychlosti a odpovidajici doby, za kterou zmena nastala...
@@ -524,6 +539,10 @@ ________________________________________
 ```
 
 </details>
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Druhy pohybu
 
@@ -644,6 +663,10 @@ s2 = v2 * (t - t2)
 
 </details>
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Volny pad
 
 + Je pad volne spustenych teles (bez udeleni pocatecni rychlosti). Je primocary a **rovnomerne zrychleny** - s konstantnim `g`. Zrychleni volneho padu `g` se nazyva **tihove zrychleni**
@@ -659,6 +682,10 @@ g Zeme = 9.80665 ms^-2 ~ 10 ms^-2
 
 Graf zavislosti rychlosti padu na case
 </div>
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Rovnomerny pohyb po kruznici
 
@@ -778,7 +805,12 @@ O = 1.88 m
 n = 100 000 m / 0.6 m / 60 = 2 778 otacek / min
 ```
 
+    
 </details>
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 # Dynamika hmotneho bodu
 
@@ -813,6 +845,10 @@ Magneticke pole
 + Jsou-li telesa od sebe dost daleo, jejich vzajemne pusobeni nepozorujeme. Teleso, ktere je od vsech ostatnich teles v dostatecne vzdalenosti a nepusobi na nej zadne pole, se nazyva izolovane teleso. Zanedbame-li rozmery telesa, hovorime o **izolovanem hmotnem bode**. 
 
 + Gravitacni silove pusobeni na teleso polozene na podloze nebo zavesene je vykompenzovane dalsi silou. Jako izolovana telesa se chovaji vsechna telesa, pri nichz je silove pusobeni ostatnich teles vykompenzovano. 
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Hybnost telesa
 
@@ -856,6 +892,10 @@ delta p = m(v2 - v1)
 
 + Vektor zmeny hybnosti pri rovnomerne zpomalenem pohybu ma smer proti pohybu telesa. Znamenko minus znamena jen jiny smer vektoru hybnosti
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Prvni newtonuv zakon
 
 + Jestliže na těleso (hmotu) nepůsobí žádné vnější síly, nebo výslednice sil je 0, pak těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu.
@@ -869,6 +909,10 @@ Newtonuv prvni zakon
 + Vztazne soustavy, v nichz izolovane hmotne body zustavaji v klidu nebo v rovnomernem primocarem pohybu, se nazyvaji inercialni vztazne soustavy.
 
 + Setrvacnost je vlastnost izolovanych teles zustavat v inercialnich vztaznych soustavach v klidu nebo v rovnomernem primocarem pohybu.
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Druhy newtonuv zakon
 
@@ -901,5 +945,9 @@ Zmena vektoru hybnosti s casem nastava u pohybu...
 2. rovnomerne zpomaleneho
 3. rovnomerneho po kruznici 
 ```
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Treti newtonuv zakon
