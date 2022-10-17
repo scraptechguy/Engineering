@@ -418,7 +418,7 @@ Pro popis pohybu telesa musime zvolit teleso, ke kteremu budeme jeho polohu vzta
 
 ## Rychlost 
 
-+ **Prumerna rychlost** - neni vektor (na rozdil od okamzite rychlosti), neda se vypocitat aritmetickym prumerem (kdyz je jedna rychlost 0 a druha )
++ **Prumerna rychlost** - neni vektor (na rozdil od okamzite rychlosti), neda se vypocitat aritmetickym prumerem (kdyz je jedna rychlost 0 a druha nekonecno, teleso se kvuli te nulove ani nezacne hybat - nema moznost cestovat tou druhou, at je jakkoli velka)
 
 Priklady
 ```
