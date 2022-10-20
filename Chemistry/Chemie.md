@@ -348,6 +348,11 @@ K_B = ----------- * [H2O] = -----------
 + **Stredne silne** baze - `K_B` < 10^-2
 + **Silne** baze - `K_B` > 10^-2
 
+#### pH
+```
+pH = -log[H3O+]
+```
+
 ***
 test
 
