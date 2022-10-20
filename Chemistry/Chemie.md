@@ -170,7 +170,7 @@ H2 (g) + I2 (g) -> 2HI (g)      delta H = -13 kJ/mol, (<- ale delta H = +13 kJ/m
 ```
 C (s) + O2 (g) -> CO2 (g)       delta H = -393,1 kJ/mol
 C (s) + 1/2 O2 (g) -> CO (g)    delta H = -110,5 kJ/mol
-CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/molx
+CO (g) + 1/2 O2 (g) -> CO2 (g)  delta H = -282,6 kJ/mol
 ```
 
 ### Energie
@@ -282,13 +282,13 @@ vp -> k vetsim latkovym mnozstvim
 
 + **Bronstedova teorie** - kyseliny odstepuji `H+` (`HCl + H2O -> H3O+ + Cl-`), zasada prima `H+` (`NH3 + H2O -> NH4 + OH-`)
 
-+ **Lewisova teorie** - kyseliny maji volny orbital, zasady maji volny elektricky par
++ **Lewisova teorie** - kyseliny maji volny orbital, zasady maji volny elektronovy par
 
 ```
  k     b        k      b
 HCl + H2O -><- H3O+ + Cl-
 
-k-b - konjugovany par
+k-b - konjugovany par (castice co se lisi o jeden proton)
 ```
 
 ### Sila kyselin 
