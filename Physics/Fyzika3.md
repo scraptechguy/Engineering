@@ -18,6 +18,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#prvni-newtonuv-zakon">Prvni newtonuv zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-newtonuv-zakon">Druhy newtonuv zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treti-newtonuv-zakon">Treti newtonuv zakon</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zakon-zachovani-hybnosti">Zakon zachovani hybnosti</a>
 
 ****
 
@@ -951,3 +952,44 @@ Zmena vektoru hybnosti s casem nastava u pohybu...
 </div>    
 
 ## Treti newtonuv zakon
+
++ Proti kazde akci vzdy pusobi stejna reakce; jinak: vzajemna pusobeni dvou teles jsou vzdy stejne velka a miri na opacne strany. Akce a reakce soucasne vznikaji a soucasne zanikaji. 
+
+## Zakon zachovani hybnosti
+
+Zrazka kulecnikovych kouli...
+```
+1. Na kouli v klidu druha centralne stredove narazi
+
+[]-->___________[]
+p1              p2
+
+pred narazem...
+    |p1| = m|v1|
+    |p2| = 0
+    |pc| = |p1| + |p2| = m|v1|
+                                        |pc| = |pc`||
+po narazu...
+    |p1`| = 0
+    |p2`| = m|v2`|
+    |pc`| = |p1`| + |p2`| = m|v2`|
+```
+
+```
+2. Koule pohybujici se proti sobe na sebe narazi
+
+[]-->________<--[]
+p1              p2
+
+pred narazem...
+    |p1| = m|v1|
+    |p2| = m|v2|
+    |pc| = |p1| + |p2| = 0
+                                        |pc| = |pc`||
+po narazu...
+    |p1`| = m|v1`|
+    |p2`| = m|v2`|
+    |pc`| = |p1`| + |p2`| = 0
+
+Celkova hybnost soustavy kouli se narazem nezmeni
+```
