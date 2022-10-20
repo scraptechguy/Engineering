@@ -310,7 +310,7 @@ K_A = ----------- * [H2O] = -----------
 
 + **Slabe** kyseliny - `K_A` < 10^-4, bezkyslikate (HF, H2S, HCN)
 + **Stredne silne** kyseliny - `K_A` < 10^-2
-+ **Silna** kyseliny - `K_A` > 10^-2, bezkyslikate (HCl, HBr, HI)
++ **Silne** kyseliny - `K_A` > 10^-2, bezkyslikate (HCl, HBr, HI)
 
 ***
 Vsechny organicke kysliny jsou slabe
@@ -344,11 +344,9 @@ K_B = ----------- * [H2O] = -----------
       [NH3][H2O]               [NH3]
 ```
 
-+ Silne baze - `K_B` > 10^-5
-
-+ Stredne silne baze - 10^5 > `K_B` < 10^10
-
-+ Slabe baze - `K_B` < 10^10
++ **Slabe** baze - `K_B` < 10^-4
++ **Stredne silne** baze - `K_B` < 10^-2
++ **Silne** baze - `K_B` > 10^-2
 
 ***
 test
