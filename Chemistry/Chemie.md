@@ -334,13 +334,21 @@ Kyslikate kyseliny
 
 ### Sila zasad
 
++ `K_B` - konstanta bazicidy
+
 ```
 NH3 + H2O <--> NH4+ + OH-
+
+      [OH-][NH4+]           [OH-][NH4+]
+K_B = ----------- * [H2O] = -----------
+      [NH3][H2O]               [NH3]
 ```
 
-+ Silne baze
++ Silne baze - `K_B` > 10^-5
 
-+ Slabe baze
++ Stredne silne baze - 10^5 > `K_B` < 10^10
+
++ Slabe baze - `K_B` < 10^10
 
 ***
 test
