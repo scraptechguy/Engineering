@@ -21,6 +21,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simple_Periodic_Table_Chart-blocks.svg/2880px-Simple_Periodic_Table_Chart-blocks.svg.png">
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#kapitoly">^</a>
+</div>   
+
 ### Prehled nazvoslovi
 
 <table>
@@ -107,6 +111,10 @@
 
 `-` - aniony
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#kapitoly">^</a>
+</div>   
+
 # Termochemie
 
 + **Reakcni teplo** `Q` - velicina udavajici teplo, ktere soustava prijme ci odevzda, pokud se dana chemicka reakce uskutecni v jednotkovem rozsahu, t. zareaguji takova latkova mnozstvi, jaka udavaji stechiometricke koeficienty
@@ -157,6 +165,10 @@ CaCO3 (s) -> CaO (s) + CO2 (g)      delta H = 178 kJ/mol
 <p>Graf endotermicke reakce</p>
 </div>
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#kapitoly">^</a>
+</div>   
+
 ## Termochemicke zakony
 
 + **Prvni termochemicky zakon** - hodnota reakcniho tepla prime a zpetne reakce je az na znamenko stejna (Lavoisier a Laplace, 1780)
@@ -190,6 +202,10 @@ Priklady
 ```
 
 ```
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#kapitoly">^</a>
+</div>   
 
 ## Reakcni kinetika
 
@@ -229,6 +245,10 @@ Rad reakce je soucet stechiometrickych koeficientu vstupnich latek
 + **Katalyzatory** - zvysuji rychlost chemicke reakce, ale samy se chemickou reakci nemeni, meni reakcni mechanismus (snizuje `E_A` - energicky vyhodnejsi). Negativni katalyzaory se nazivaji **inhibitory**
 
 <a href="https://docs.google.com/document/d/1WuhtQLGcRo1vVfdxFqZzIIHgU4S1gzHMvdAfGM2CfDs/edit?usp=sharing" target="_blank">Pracovni list</a>
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Chemistry/Chemie.md#kapitoly">^</a>
+</div>   
 
 ## Chemicka rovnovaha
 
