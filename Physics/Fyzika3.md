@@ -19,6 +19,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#druhy-newtonuv-zakon">Druhy newtonuv zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treti-newtonuv-zakon">Treti newtonuv zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zakon-zachovani-hybnosti">Zakon zachovani hybnosti</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treci-sila">Treci sila</a>
 
 ****
 
@@ -993,3 +994,65 @@ po narazu...
 
 Celkova hybnost soustavy kouli se narazem nezmeni
 ```
+
+## Treci sila
+
++ **Smykove treni** - jev, ktery vznika mezi plochami dvou dotykajicich se teles a brzdi vzajemny pohyb obou teles. Stycme plochy obou teles nejsou nikdy dokonale hladke, jejich nerovnosti do sebe zapadaji a brani vzajemnemu pohybu teles
+
+```
+    Ft               F
+    <---[O]---------->
+```
+
++ **Treci sila** - treci sila (`Ft`) pusobi vzdy rovnobezne se stykovou plochou a smeruje proti pohybu telesa. Velikost treci sily zavisi na velikosti sily, kterou je teleso pritlaceno na podlozku a na druhu a kvalite stykovych ploch. NEzavisi na obsahu stykovych ploch...
+
+```
+Ft = fmg
+```
+
+... kde `f` je **koeficient smykoveho treni**. I kdyz nevystupuje v rovnici, vetsi rychlosti treci silu snizuji
+
+### Sila valiveho odporu
+
++ Jedno teleso po druhem se nemusi pohybovat pouze smykanim, ale pokud ma teleso kruhovy prurez muze se jedno teleso po druhem telese valit. I pri tomto pohybu vznika sila, ktera pusobi proti pohybu a nazyva se **sila valiveho odporu**. Sila valiveho odporu (`Fv`) vznika zcasti take kvuli nerovnosti stycnych ploch a take diky deformaci telesa i podlozky vlivem tlakove sily a nutnosti se jakoby valit do kopce 
+
+```
+            mg
+Fv = ksi * ----
+            r
+```
+
+... kde `ksi` je rameno valiveho odporu, jednoutkou je jeden metr. Jeho hodnota zavisi na pevnosti a povrchu stycnych ploch 
+
++ Pri stejnych podminkach je sila valiveho odporu mnohem mensi nez sila smykoveho treni, proto se casto smykani nahrazuje valenim
+
+Priklady
+
+```
+1. Kvadr o hmotnosti 5 kg tahneme po vodorovne podlozce vodorovnou silou o velikosti 30 N. 
+Soucinitel treni techto dvou je 0.4. Urcete velikost zrychleni kvadru.
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+m = 5 kg
+F = 30 N
+f = 0.4 
+a = ?
+______________
+
+    Ft                F
+    <---[ooo]--------->
+
+Ft = fmg = 0.4 * 5 kg * 10 ms^-2 = 20 N
+
+|F`| = |Ft| + |F| = 10 N
+
+a = F / m = 10 N / 5 kg = 2 ms^-2
+```
+
+</details>
