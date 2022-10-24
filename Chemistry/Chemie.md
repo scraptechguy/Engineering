@@ -422,3 +422,14 @@ Cu + H2SO4 -> CuSO4 + SO2 + H2O
 ox I I - 1 e- -> I 0          1  x  8
 red S VI + 8 e- -> S -II      8  x  1
 ```
+
+```
+2KMnO4 + 16HCl -> MnCl2 + KCl + Cl2 + H2O
+
+Mn VII + 5 e- -> Mn II  5  x  2
+Cl2 -I + 2 e- -> Cl 0    2  x  5
+```
+
+```
+P4 + NaOH + H2O ->
+```
