@@ -1122,4 +1122,57 @@ F/N |
     _________________________  s/m
 ```
 
-+ Prace vykonana konstantni silou `F` je v pracovnim diagramu dana obsahem vysrafovaneho obdelniku
+Prace vykonana konstantni silou `F` je v pracovnim diagramu dana obsahem vysrafovaneho obdelniku
+
++ Mechanicka prace konana silou `F`, ktera **nepusobi ve smeru pohybu telesa**...
+
+```
+W = Fs * cos(alpha)
+```
+
+... kde sila `F` je slozena ze sily, ktera nadlehcuje, a ze sily, ktera kona praci. Uhel `alpha` svira vysledna sila `F` se slozkou, ktera kona praci
+
++ Mechanicka prace konana silou `F`, ktera pusobi **proti smeru pohybu telesa**...
+
+```
+W = F0s * cos(alpha) = - F0s
+```
+
+... pusobi-li sila proti pohybu telesa (90° < `alpha` < 180°), potom cos(`alpha`) a prace je zaporna. V takovemto pripade muzeme rict, ze se prace **spotrebuje**
+
+Priklady 
+
+```
+1. Jakou mechanickou praci vykoname kdyz zavazi o hmotnosti 5 kg kdyz...
+    a) zvedneme rovnomernym pohybem do vysky 2 m
+    b) drzime ve vysce 2 m nad zemi
+    c) premistime ve vodorovnem smeru o 2 m
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+m = 5 kg
+g = 10 ms^-2
+s = 2 m
+___________________
+
+a) zvedneme rovnomernym pohybem do vysky 2 m
+
+    W = Fs = mgs
+    W = 5 kg * 10 ms^-2 * 2 m
+    W = 100 J
+
+b) drzime ve vysce 2 m nad zemi
+
+    Nekoname praci - draha = 0 m
+
+c) premistime ve vodorovnem smeru o 2 m
+
+    Nekoname praci - cos(alpha) = 0
+```
+
+</details>
