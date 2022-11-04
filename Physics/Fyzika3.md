@@ -1105,11 +1105,21 @@ f = 0.8 Hz
 
 ## Mechanicka prace
 
-+ Mechanicka prace konana silou `F` pusobici na teleso ve smeru pohybu. Mechanicka prace je dana soucinem velikosti sily a drahy. 
++ Mechanicka prace konana silou `F` pusobici na teleso ve smeru pohybu. Mechanicka prace je dana soucinem velikosti sily a drahy
 
 ```
 W = Fs
 ```
 
-+ Jednotkou mechanice prace je joule (`J`). Jeden joule vyjadruje praci, kterou vykona sila 1 newtonu pusobici ve smeru posunuti po draze 1 metru. 
++ Jednotkou mechanice prace je joule (`J`). Jeden joule vyjadruje praci, kterou vykona sila 1 newtonu pusobici ve smeru posunuti po draze 1 metru
 
+```
+F/N |
+    |    _________________
+    |
+    |
+    |
+    _________________________  s/m
+```
+
++ Prace vykonana konstantni silou `F` je v pracovnim diagramu dana obsahem vysrafovaneho obdelniku
