@@ -184,6 +184,9 @@ Ohranicena soustava
 8. Uklid (nastav nejmensi zoom zas)
 ```
 
+### Tady sem to vzdal 😔
+***
+
 # Viry, bakterie, priony
 
 + **Virion** - jednotliva virova castecka
@@ -198,3 +201,15 @@ Ohranicena soustava
 
 ## Pletiva
 
+Felogen 
+
++ stonek tloustne, pokozka praska -> zaklada se blizko pod povrchem, ven: korek, dovnitr: zeleou kuru, novy vzdy hloubeji
+
+Borka (ty???)
+- hodne rozbrazdena, hladka
+
+lentilky se jmenuji podle latinskeho cocka (lenticel)
+
+hospodarsky vyznam 
+
++ Potravina - brambory, kedlubny, chrest, koreni (zazvor), suroviny (drevo, cukrova trtina, len, konopi), kryci pletiva (dub, skoricovnik, chinovnik, kaucovnik)
