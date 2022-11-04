@@ -21,6 +21,8 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zakon-zachovani-hybnosti">Zakon zachovani hybnosti</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treci-sila">Treci sila</a>
 
+
+
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1173,6 +1175,98 @@ b) drzime ve vysce 2 m nad zemi
 c) premistime ve vodorovnem smeru o 2 m
 
     Nekoname praci - cos(alpha) = 0
+```
+
+</details>
+
+## Vykon
+
++ Fyzikalni velicina vykon (`P`) je definovana jako vykonana prace za urcity cas, pracovat s vykonem 100 W znamena za kazdou sekundu vykonat praci 100 J ...
+
+```
+     W
+P = ---
+     t
+```
+
++ Vykon pri rovnomernem konani prace se kona maji-li `F` a `v` stejny smer, `v` = konst. (realna situace, kdy existuje treni a plati `F` = 0)
+
+```
+     Fs         s
+P = ---- = F * --- = Fv
+     t          t
+```
+
+... vykon je urcen soucinem velikosti sily a rychlosti
+
++ Vykonem jde vyjadriv dalsi jednotka mechanicke prace, a to watt sekunda (`Ws`). Prace se tak da urcit jako soucin vykonu a casu
+
+```
+1 kWh = 3.6 e6 Ws = 3.6 e6 J
+```
+
+### Prikon
+
+Pres vykonanou praci vypocitame tzv. uzitecny vykon, stroji vsak dodame vzdy vice energie nez vykona uzitecne prace. U kazdeho stroje je tedy udavan prave prikon (`P0`)
+
+```
+P0 > P
+```
+
++ **Ucinnost** - prikon stroje je vzdy vyssi nez vykon (ztrata vykonu oproti prikonu pada na vrub prekonavani odporovych sil). U stroju udavame proto take jejich ucinnost ... 
+
+```
+       vykon     P
+etha = ------ = ----
+       prikon    P0
+```
+
+Priklady
+
+```
+1. Vzperac vyzvedl cinku o hmotnosti 150 kg do vysky 2 m za 3 sekundy.
+Jaky byl jeho prumerny vykon?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+m = 150 kg
+s = 2 m 
+t = 3 s
+___________________
+
+P = mgs / t
+P = 150 kg * 10 ms^-2 * 2 m / 3 s
+P = 1 000 W
+```
+
+</details>
+
+```
+2. Dulni cerpadlo o vykonu 300 kW cerpa vodu z hloubky 180 m.
+Jake mnozstvi vody (v l) vycerpa za 1 h?  
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+P = 300 kW
+s = 180 m 
+t = 3 600 s
+___________________
+
+P = mgs / t
+rho = m / V -> m = rho * V
+
+P = rho * V * g * s / t
+V = P * t / rho * g * s = 600 000 l
 ```
 
 </details>
