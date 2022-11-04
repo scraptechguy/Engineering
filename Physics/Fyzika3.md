@@ -1057,3 +1057,59 @@ a = F / m = 10 N / 5 kg = 2 ms^-2
 
 </details>
 
+## Setrvacna sila 
+
++ Uvnitr neinercialnich vztaznych soustav pusobi setrvacna sila, ktera pusobi vzdy proti pohybu
+
+```
+|Fs| = -ma
+```
+
++ Bla bla bla
+
+```
+     ^
+     |  |a|
+    [O]             
+     |  |Fs|
+     |  |Fg|
+     V
+
+|F| = |Fs| + |Fg|
+|F| = m(a + g)
+```
+
+Priklady
+
+```
+1.  
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+r = 60 cm
+g = 10 m/s/s
+omega = 360?
+v = ?
+f = ? 
+___________________
+
+f = 0.8 Hz
+```
+
+</details>
+
+## Mechanicka prace
+
++ Mechanicka prace konana silou `F` pusobici na teleso ve smeru pohybu. Mechanicka prace je dana soucinem velikosti sily a drahy. 
+
+```
+W = Fs
+```
+
++ Jednotkou mechanice prace je joule (`J`). Jeden joule vyjadruje praci, kterou vykona sila 1 newtonu pusobici ve smeru posunuti po draze 1 metru. 
+
