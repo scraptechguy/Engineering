@@ -1301,3 +1301,9 @@ W = Fs = ma * --- at^2 = --- mv^2
 ```
 W = Ek
 ```
+
++ **Zmena kineticke energie** - v casovem intervalu `delta t = t2 - t1` nastane zmena kineticke energie `delta Ek = Ek2 - Ek1`. Zmena kineticke energie je rovna praci, kterou vykona pusobici sila...
+
+```
+W = delta Ek
+```
