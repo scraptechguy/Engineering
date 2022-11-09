@@ -1273,7 +1273,7 @@ V = P * t / rho * g * s = 600 000 l
 
 ## Kineticka energie
 
-+ 
+Kinetickou energii ma teleso s hmotnosti `m`, pohybujici se rychlosti `v` vzhledem ke zvolene inercialni soustave. Jednotkou je `J` (joule), nebo... `N * m, kg * m * s^-2, ...`
 
 ```
     [000]------> F
