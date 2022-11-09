@@ -1332,4 +1332,16 @@ W = smg = (h1 - h2) * mg = delta h * mg
 
 + **Hladiny potencialni energie** - mista, v nichz ma teleso stejnou potencialni energii. V pripade tihove sily jsou to vodorovne roviny. 
 
-+ **Nulova potencialni hladina** - misto, ve kterem je potencialni energie rovna nule, slouzi jako referencni hladina pro ostatni 
++ **Nulova potencialni hladina** - misto, ve kterem je potencialni energie rovna nule, slouzi jako referencni hladina pro ostatni potencialni hladiny
+
+Soucet kineticke a potencialni energie telesa nazyvame **celkova mechanicka energie soustavy**. 
+
+```
+Ec = Ek + Ep
+```
+
+Pusobi-li v soustave teleso - Zeme pouze tihova sila, celkova mechanicka energie soustavy se nemeni.
+
+```
+delta Ek + delta Ep = 0
+```
