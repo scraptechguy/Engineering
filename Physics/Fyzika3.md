@@ -1270,3 +1270,34 @@ V = P * t / rho * g * s = 600 000 l
 ```
 
 </details>
+
+## Kineticka energie
+
++ 
+
+```
+    [000]------> F
+    o   o
+```
+
++ Na vozik s hmotnosti m pusobi stala sila F, ktera pusobi ve smeru pohybu. Podle 2. Newtonova pohyboveho zakona se vozik pohybuje rovnomerne zrychlene se zrychlenim `a`. Velikost rychlosti pohybu voziku se tak zvetsuje. 
+
+```
+               F
+F = ma -> a = ---
+               m
+```
+
+Prace vykonana silou `F` pri rozjizdeni voziku...
+
+``` 
+               1 .        1
+W = Fs = ma * --- at^2 = --- mv^2
+               2          2
+```
+
++ Konanim prace vnejsi silou teleso ziskava energii. Jakou praci vykona vnejsi sila pusobici na teleso, takovou energii (v tomto pripade `Ek`) teleso pri rozjizdeni ziska. 
+
+```
+W = Ek
+```
