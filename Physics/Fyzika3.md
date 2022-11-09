@@ -1345,3 +1345,7 @@ Pusobi-li v soustave teleso - Zeme pouze tihova sila, celkova mechanicka energie
 ```
 delta Ek + delta Ep = 0
 ```
+
++ **Zakon zachovani mechanicke energie** - Celkova mechanicka energie izolovane soustavy je stala
+
+Fyzikalni velicina prace charakterizuje **dej**, pri nemz nastava premena nebo prenos energie, kdezto velicina energie charakterizuje urcity **stav** soustavy.
