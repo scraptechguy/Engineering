@@ -1307,3 +1307,25 @@ W = Ek
 ```
 W = delta Ek
 ```
+
+## Potencialni energie
+
+Jakou praci musi vykonat tihova sila `Fg` aby se teleso dostalo k povrchu, takovou potencialni energii ma. Jednotkou je `J` (joule), nebo... `kg * m * s^-2 * m, kg* m^2 * s^-2, ...`
+
++ Na teleso v tihovem poli Zeme pusobi tihova sila `Fg`. Pada-li teleso volne, tihova sila `Fg` kona praci W...
+
+```
+        [0]
+         |
+         |  Fg
+         |
+         V
+
+    W = Fg * s 
+```
+
+->  Jakou praci vykona tihova sila `Fg` pri premisteni telesa z vysky `h` na povrxh Zeme, takovou potencialni energii ma teleso ve vysce h. 
+
+```
+W = smg = (h1 - h2) * mg = delta h * mg
+```
