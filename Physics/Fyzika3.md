@@ -1001,6 +1001,10 @@ po narazu...
 Celkova hybnost soustavy kouli se narazem nezmeni
 ```
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Treci sila
 
 + **Smykove treni** - jev, ktery vznika mezi plochami dvou dotykajicich se teles a brzdi vzajemny pohyb obou teles. Stycme plochy obou teles nejsou nikdy dokonale hladke, jejich nerovnosti do sebe zapadaji a brani vzajemnemu pohybu teles
@@ -1063,6 +1067,10 @@ a = F / m = 10 N / 5 kg = 2 ms^-2
 
 </details>
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Setrvacna sila 
 
 + Uvnitr neinercialnich vztaznych soustav pusobi setrvacna sila, ktera pusobi vzdy proti pohybu
@@ -1109,6 +1117,9 @@ f = 0.8 Hz
 
 </details>
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 # Mechanicka prace a energie
 
@@ -1185,6 +1196,10 @@ c) premistime ve vodorovnem smeru o 2 m
 ```
 
 </details>
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Vykon
 
@@ -1278,6 +1293,10 @@ V = P * t / rho * g * s = 600 000 l
 
 </details>
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Kineticka energie
 
 Kinetickou energii ma teleso s hmotnosti `m`, pohybujici se rychlosti `v` vzhledem ke zvolene inercialni soustave. Jednotkou je `J` (joule), nebo... `N * m, kg * m * s^-2, ...`
@@ -1314,6 +1333,10 @@ W = Ek
 ```
 W = delta Ek
 ```
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
 
 ## Potencialni energie
 
