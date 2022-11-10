@@ -20,9 +20,13 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treti-newtonuv-zakon">Treti newtonuv zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#zakon-zachovani-hybnosti">Zakon zachovani hybnosti</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#treci-sila">Treci sila</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#setrvacna-sila">Setrvacna sila</a>
 
-
-
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#mechanicka-prace-a-energie-1">Mechanicka prace a energie</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#mechanicka-prace">Mechanicka prace</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#vykon">Vykon a prikon</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kineticka-energie">Kineticka energie</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#potencialni-energie">Potencialni energie</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1104,6 +1108,9 @@ f = 0.8 Hz
 ```
 
 </details>
+
+
+# Mechanicka prace a energie
 
 ## Mechanicka prace
 
