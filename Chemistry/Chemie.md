@@ -433,3 +433,10 @@ Cl2 -I + 2 e- -> Cl 0    2  x  5
 ```
 P4 + NaOH + H2O ->
 ```
+
+## Elektrolyza 
+
+```
+Katoda (-) - vylucuji se kationty, redukce
+Anoda (+) - vylucuji se anionty, oxidace 
+```
