@@ -906,7 +906,7 @@ delta p = m(v2 - v1)
 
 ## Prvni newtonuv zakon
 
-+ Jestliže na těleso (hmotu) nepůsobí žádné vnější síly, nebo výslednice sil je 0, pak těleso setrvává v klidu nebo v rovnoměrném přímočarém pohybu.
++ Jestlize na teleso (hmotu) nepusobi zadne vnejsi sily, nebo vyslednice sil je 0, pak teleso setrvava v klidu nebo v rovnomernem primocarem pohybu.
 
 <div align="center">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffarside.ph.utexas.edu%2Fteaching%2Fcelestial%2FCelestial%2Fimg94.png&f=1&nofb=1&ipt=7158335313bf99dc70c8602796d48694452ccf7f9d4f69437ed65399af222555&ipo=images">
@@ -924,7 +924,7 @@ Newtonuv prvni zakon
 
 ## Druhy newtonuv zakon
 
-+ Jestliže na těleso (hmotu) působí síla, pak se těleso pohybuje zrychlením, které je přímo úměrné působící síle a nepřímo úměrné hmotnosti tělesa.
++ Jestlize na teleso (hmotu) pusobi sila, pak se teleso pohybuje zrychlenim, ktere je primo umerne pusobici sile a neprimo umerne hmotnosti telesa.
 
 ```
       |delta p|
