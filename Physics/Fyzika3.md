@@ -27,6 +27,9 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#vykon">Vykon a prikon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kineticka-energie">Kineticka energie</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#potencialni-energie">Potencialni energie</a>
+
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#gravitacni-pole-1">Gravitacni pole</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#newtonuv-gravitacni-zakon">Newtonuv gravitacni zakon</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1379,3 +1382,9 @@ delta Ek + delta Ep = 0
 + **Zakon zachovani mechanicke energie** - Celkova mechanicka energie izolovane soustavy je stala
 
 Fyzikalni velicina prace charakterizuje **dej**, pri nemz nastava premena nebo prenos energie, kdezto velicina energie charakterizuje urcity **stav** soustavy.
+
+# Gravitacni pole
+
+Pole je jednou 
+
+## Newtonuv gravitacni zakon
