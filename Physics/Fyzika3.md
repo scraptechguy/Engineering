@@ -1385,6 +1385,27 @@ Fyzikalni velicina prace charakterizuje **dej**, pri nemz nastava premena nebo p
 
 # Gravitacni pole
 
-Pole je jednou 
++ **Gravitace** - vzajemne silove pusobeni mezi libovolnymi telesy, gravitace je vseobecna vlastnost teles
 
 ## Newtonuv gravitacni zakon
+
++ Dva hmotne body se navzajem pritahuji stejne velkymi gravitacnimi silami opacneho smeru
+
+```
+        Fg1       Fg2
+ m1 [0]---->    <----[0] m2
+     |________________|
+             r
+
+Fg1 = Fg2
+```
+
++ Kazda dve tělesa o hmotnostech `m1` a `m2`, ktera muzeme dostatecne presne aproximovat body, nebo jsou sfericky symetricka (jak vyplyva z Gaussovy vety) na sebe pusobi gravitacni silou primo umernou hmotnostem teles a neprimo umernou druhe mocnine jejich vzdalenosti ...
+
+```
+                 m1 * m2
+Fg1,2 = kappa * ---------
+                   r^2
+```
+
+... kde `kappa` je gravitacni konstanta, ktera se rovna velikosti gravitacni sily pusobici mezi telesy s hmotnostmi `1 kg` ve vzdalenosti `1 m` 
