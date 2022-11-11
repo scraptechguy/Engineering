@@ -1408,4 +1408,51 @@ Fg1,2 = kappa * ---------
                    r^2
 ```
 
-... kde `kappa` je gravitacni konstanta, ktera se rovna velikosti gravitacni sily pusobici mezi telesy s hmotnostmi `1 kg` ve vzdalenosti `1 m` 
+... kde `kappa` je gravitacni konstanta, ktera se rovna velikosti gravitacni sily pusobici mezi telesy s hmotnostmi `1 kg` ve vzdalenosti `1 m`. Ma hodnotu `6,67e-11 m^3 * kg^-1 * s^-2`
+
+Priklady
+
+</details>
+
+```
+1. Jak velkou gravitacni silou se pritahuji Zeme a Slunce?
+Pocitejte s hodnotami:
+
+    hmotnost Zeme = 6e24 kg
+    hmotnost Slunce = 2e30 kg
+    stredni vzdalenost teles = 1,5e8 km
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+                 m1 * m2                6e24 * 2e30
+Fg1,2 = kappa * --------- = 6,67e-11 * ------------- = 3,6e22 N
+                   r^2                   (1,5e8)^2
+```
+
+</details>
+
+```
+1. Vypocitejte hmotnost a prumernou hustotu Zeme, 
+jestlize zname:
+
+    polomer Zeme = 6378 km
+    pusobeni Fg na 1 kg = 9,8 N 
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+        m       Fg * r^2 / kappa         6e22 kg
+rho = ----- = -------------------- = -------------- = 5,5e3 kg/m^3 
+        V         4/3pi * r^3         1,09e12 km^3
+```
+
+</details>
