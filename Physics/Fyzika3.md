@@ -1486,8 +1486,18 @@ K = kappa * ------------
 
 ... kde `r` je polomer telesa, ktere vytvari pole (casto se zanedbava), a `h` vzdalenost od stredu pole
 
++ Podle druheho pohyboveho zakona pro `Fg` plati:
+
+```
+     Fg
+K = ----  -->  Fg = mK  -->  Fg = m * ag -->  K = ag
+     m
+```
+
+... intenzita gravitacniho pole `K` v danem miste pole se rovna gravitacnimu zrychleni `ag`
+
 #### Vektorove modely gravitacniho pole
 ```
 1. radialni (centralni) - pro radialni pole je charakteristicke, ze intenzita smeruje ve vsech mistech do gravitacniho stredu
-2. 
+2. homogenni - homogenni gravitacni pole ma ve vsech mistech konstantni vektor intenziky K
 ```
