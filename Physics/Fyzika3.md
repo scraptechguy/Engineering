@@ -30,6 +30,7 @@
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#gravitacni-pole-1">Gravitacni pole</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#newtonuv-gravitacni-zakon">Newtonuv gravitacni zakon</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#intenzita-gravitacniho-pole">Intenzita gravitacniho pole</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1456,3 +1457,37 @@ rho = ----- = -------------------- = -------------- = 5,5e3 kg/m^3
 ```
 
 </details>
+
+## Intenzita gravitacniho pole
+
+Intenzita gravitacniho pole je vektorova velicina, ma stejny smer jako `Fg` a s priblizenim ke stredu pole narusta
+
+```
+         Fg
+    [0]----->       [00]  M
+  m
+```
+
++ Je definovana jako podil gravitacni sily `Fg`, ktera pusobi na teleso s hmotnosti `m` v danem miste pole, a hmotnosti `M` tohoto telesa. Jednotkou je `N / kg`
+
+```
+     Fg
+K = ----
+     m
+```
+
+Intenzita klesa s druhou mocninou vzdalenosti od stredu. **NENI** zavisla na hmotnosti telesa v poli ...
+
+```
+                 M
+K = kappa * ------------
+             (r + h)^2
+```
+
+... kde `r` je polomer telesa, ktere vytvari pole (casto se zanedbava), a `h` vzdalenost od stredu pole
+
+#### Vektorove modely gravitacniho pole
+```
+1. radialni (centralni) - pro radialni pole je charakteristicke, ze intenzita smeruje ve vsech mistech do gravitacniho stredu
+2. 
+```
