@@ -1501,3 +1501,36 @@ K = ----  -->  Fg = mK  -->  Fg = m * ag -->  K = ag
 1. radialni (centralni) - pro radialni pole je charakteristicke, ze intenzita smeruje ve vsech mistech do gravitacniho stredu
 2. homogenni - homogenni gravitacni pole ma ve vsech mistech konstantni vektor intenziky K
 ```
+
+***
+
+Priklady
+
+</details>
+
+```
+1. Vzdalenost Zeme od Slunce je 150 milionu kilometru,
+obezna doba Zeme je 365,25 dni. Urcete...
+    a) velikost zrychleni, ktere Slunce udeluje Zemi
+    b) hmotnost Slunce
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+r = 150e6 km
+T = 365,25 dnu
+_____________________
+
+a) velikost zrychleni, ktere Slunce udeluje Zemi
+    ag = omega^2 * r = (2pi / T)^2 * r
+    ag = 5,9e-3 ms^-2 
+
+b) hmotnost Slunce
+    
+```
+
+</details>
