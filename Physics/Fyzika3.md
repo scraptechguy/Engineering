@@ -1558,7 +1558,10 @@ a) velikost zrychleni, ktere Slunce udeluje Zemi
     ag = 5,9e-3 ms^-2 
 
 b) hmotnost Slunce
-
-```
+                   M              ag * r^2
+    ag = kappa * -----  -->  M = ----------
+                  r^2              kappa
+    M = 2e30 kg
+```     
 
 </details>
