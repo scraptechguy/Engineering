@@ -31,6 +31,8 @@
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#gravitacni-pole-1">Gravitacni pole</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#newtonuv-gravitacni-zakon">Newtonuv gravitacni zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#intenzita-gravitacniho-pole">Intenzita gravitacniho pole</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#gravitacni-a-tihova-sila">Gravitacni a tihova sila</a>
+
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1565,3 +1567,27 @@ b) hmotnost Slunce
 ```     
 
 </details>
+
+## Gravitacni a tihova sila
+
+V neinercialni soustave spojene se Zemi pusobi na teleso vyslednice `Fg` a `F0`, nazyva se `FG` (tihova sila)
+
+```
+|FG| = |Fg| + |F0|
+
+... kde F0 = m * omega^2 * r
+```
+
+Tihova sila na polech je **totozna** s gravitacni silou, protoze `F0 = 0 N (r = 0 m)`, tihove zrychleni (`g`) na polech je vetsi nez tihove zryhleni na rovniku
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clker.com%2Fcliparts%2Ff%2Fn%2FL%2F8%2FL%2Fz%2Fglobe-md.png&f=1&nofb=1&ipt=785ae7ea6ad60270b1c459c0099de609f468a4d255c847a2087cf9a2c23a048f&ipo=images">
+
+Zeme
+</div>
+
++ **Tiha telesa** - je sila, kterou teleso pusobi na okoli. Je-li teleso zavesene nebo lezi-li na zemi, vychazi z mista zavesu nebo dotykoveho bodu s podlozkou
+
+```
+FG = G
+```
