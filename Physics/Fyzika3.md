@@ -448,6 +448,8 @@ Pro popis pohybu telesa musime zvolit teleso, ke kteremu budeme jeho polohu vzta
 
 + **Prumerna rychlost** - neni vektor (na rozdil od okamzite rychlosti), neda se vypocitat aritmetickym prumerem (kdyz je jedna rychlost 0 a druha nekonecno, teleso se kvuli te nulove ani nezacne hybat - nema moznost cestovat tou druhou, at je jakkoli velka)
 
+***
+
 Priklady
 ```
 t1 = 3 s        t2 = 5 s
@@ -483,7 +485,7 @@ rychlost ve...
 
 
 ```
-Chlapec jde rychlosti 1 m/s, v okamziku kdy je ve vzdalenosti 100 m od skoly,
+2. Chlapec jde rychlosti 1 m/s, v okamziku kdy je ve vzdalenosti 100 m od skoly,
 vyjde za nim spoluzak na jizdnim kole rychlosti 5 m/s
 ______________________________________________________________________________
 
@@ -532,8 +534,12 @@ Graf zavislosti rychlosti rovnomerneho pohybu na case
 s = 1/2 at^2     s = 1/2 vt      s = 1/2 vtt
 ```
 
+***
+
+Priklady
+
 ```
-Hmotny bod urazi za domu 6 s drahu 18 m. Jeho pocatecni rychlost byla 1,5 m/s.
+1. Hmotny bod urazi za domu 6 s drahu 18 m. Jeho pocatecni rychlost byla 1,5 m/s.
 Urcete velikost zrychleni hmotneho bodu a velikost jeho rychlosti na konci drahy
 
 v0 = 1.5 m/s
@@ -645,8 +651,12 @@ v = v0 - at
 
 Minus je obsazeno v rovnici, nesmi se dosadit znovu k `a`
 
+***
+
+Priklady
+
 ```
-Nad vezi radnice proletelo letadlo stalou rychlosti 600 km/h,
+1. Nad vezi radnice proletelo letadlo stalou rychlosti 600 km/h,
 za 15 minut po nem proudove letadlo stalou rychlosti 1200 km/h.
 Za jakou dobu a v jake vzdalenosti se setkaji?
 ```
@@ -756,6 +766,8 @@ Dukaz zrychleni pri rovnomernem pohybu po kruznici
 ```
 a = omega^2 * r = omega * v = 4pi^2 * f^2 * r
 ```
+
+***
 
 Priklady
 
@@ -1040,6 +1052,8 @@ Fv = ksi * ----
 
 + Pri stejnych podminkach je sila valiveho odporu mnohem mensi nez sila smykoveho treni, proto se casto smykani nahrazuje valenim
 
+***
+
 Priklady
 
 ```
@@ -1164,6 +1178,8 @@ W = F0s * cos(alpha) = - F0s
 
 ... pusobi-li sila proti pohybu telesa (90° < `alpha` < 180°), potom cos(`alpha`) a prace je zaporna. V takovemto pripade muzeme rict, ze se prace **spotrebuje**
 
+***
+
 Priklady 
 
 ```
@@ -1246,6 +1262,8 @@ P0 > P
 etha = ------ = ----
        prikon    P0
 ```
+
+***
 
 Priklady
 
@@ -1384,6 +1402,10 @@ delta Ek + delta Ep = 0
 
 Fyzikalni velicina prace charakterizuje **dej**, pri nemz nastava premena nebo prenos energie, kdezto velicina energie charakterizuje urcity **stav** soustavy.
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>   
+
 # Gravitacni pole
 
 + **Gravitace** - vzajemne silove pusobeni mezi libovolnymi telesy, gravitace je vseobecna vlastnost teles
@@ -1410,6 +1432,8 @@ Fg1,2 = kappa * ---------
 ```
 
 ... kde `kappa` je gravitacni konstanta, ktera se rovna velikosti gravitacni sily pusobici mezi telesy s hmotnostmi `1 kg` ve vzdalenosti `1 m`. Ma hodnotu `6,67e-11 m^3 * kg^-1 * s^-2`
+
+***
 
 Priklady
 
@@ -1457,6 +1481,10 @@ rho = ----- = -------------------- = -------------- = 5,5e3 kg/m^3
 ```
 
 </details>
+
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>   
 
 ## Intenzita gravitacniho pole
 
@@ -1530,7 +1558,7 @@ a) velikost zrychleni, ktere Slunce udeluje Zemi
     ag = 5,9e-3 ms^-2 
 
 b) hmotnost Slunce
-    
+
 ```
 
 </details>
