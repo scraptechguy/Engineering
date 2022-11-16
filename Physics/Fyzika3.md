@@ -1591,3 +1591,5 @@ Zeme
 ```
 FG = G
 ```
+
++ **Coriolisova sila** - je setrvacna sila pusobici na telesa, ktera se pohybuji v rotujici neinercialni vztazne soustave tak, ze se meni jejich vzdalenost od osy otaceni
