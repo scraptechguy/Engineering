@@ -213,3 +213,11 @@ lentilky se jmenuji podle latinskeho cocka (lenticel)
 hospodarsky vyznam 
 
 + Potravina - brambory, kedlubny, chrest, koreni (zazvor), suroviny (drevo, cukrova trtina, len, konopi), kryci pletiva (dub, skoricovnik, chinovnik, kaucovnik)
+
+_
+
+->, obou, [(5) a (5), 5], (3)
+
+x, obou, K5, C5, 5, 5, G(5)_
+
+x, obou, K5, C5, Anekonecno, G(3)-
