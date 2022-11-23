@@ -1688,9 +1688,9 @@ _____________________ zem
 ... polohu telesa pri sikmem vrhu urcujeme ve zvolene souradnicove vztazne soustave
 
 ```
-d = (v0^2 * sin(2 * alpha) / g)
+d = (v0^2 * sin(2 * alpha)) / g
 
-td = (2v0 * sin(alpha) / g)
+td = (2v0 * sin(alpha)) / g
 ```
 ... kde `d` je delka vrhu a `td` doba, za kterou teleso dopadne
 
@@ -1744,6 +1744,31 @@ h_max = v0^2 / 2g
 v0 = (h_max * 2g)^0.5
 v0 = (5 m * 20)^0.5 = 10 m/s
 
+tv = v0 / g
+tv = (v0 / g) * 2   tam i zpet
+tv = (10 m/s / 10 ms^-2) * 2 = 2 s
+```     
+
+</details>
+
+```
+3. Jakou rychlosti musel byt vykopnut mic pod uhlem 15 stupnu, 
+dopadl li do vzdalenosti 20 m?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+d = 20 m
+g = 10 ms^-2
+___________________
+
+d = (v0^2 * sin(2 * alpha)) / g 
+v0 = (dg / sin(2 * alpha))^0.5
+v0 = (200 / 0.5)^0.5 = 20 m/s
 ```     
 
 </details>
