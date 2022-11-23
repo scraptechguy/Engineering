@@ -1617,7 +1617,21 @@ v = gt
 
 Vrh kona teleso, ktere je ve vakuu v homogennim tihovem poli Zeme udelena pocatecni rychlost `v0`...
 
-+ **Vrh svisly dolu** - vrh svisly dolu kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` stejny smer jako tihove zrychleni `g`
++ **Vrh svisly dolu** - vrh svisly dolu kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` stejny smer jako tihove zrychleni `g`. Je to rovnomerne zrychleny pohyb se zrychlenim `g`...
+
+```
+     ^  |  v0
+     |  V  
+     |  |       v
+     |  |  gt        
+     |  V
+    [0]
+
+v = v0 + gt
+
+d = v0t + 1/2gt^2
+```
+... kde `d` je okamzita vyska
 
 + **Vrh svisly vzhuru** - vrh svisly vzhuru kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` opacny smer nez tihove zrychleni `g`. Je to rovnomerne zpomaleny pohyb se zrychlenim opacneho smeru `g`...
 
@@ -1633,10 +1647,36 @@ d = v0t - 1/2gt^2
 ```
 ... kde `d` je okamzita vyska
 
-```
+V nejvyssim bode trajektorie se teleso zastavi, jeho rychlost se na okamzik rovna nule ...
 
 ```
+          ^  v = 0 m/s
+          |  
+ h_max,   |  ^
+ tv       |  |  v0
+          |  |
+         [0]
+
+v = v0 - gt  -->  0 = v0 - gt  -->  tv = v0 / g
+
+h_max = v0t - 1/2gtv^2  -->  v0^2 / 2g
+```
+... kde `tv` je doba vystupu a `h_max` vyska vystupu
 
 + **Vodorovny vrh** - vodorovny vrh kona teleso tehdy, je-li jeho pocatecni rychlost `v0` kolma ke smeru tihoveho zrychleni `g`
+
+```
+    [0]------>
+                    x = v0t
+                    y = h - 1/2gt^2
+
+_____________________ zem  
+```
+... polohu telesa pri sikmem vrhu urcujeme ve zvolene souradnicove vztazne soustave
+
+```
+d = v0 * (2h / g)^0.5
+```
+... kde `d` je delka vrhu
 
 + **Sikmy vrh** - sikmy vrh kona teleso tehdy, svira-li jeho pocatecni rychlost `v0` s vodorovnym smerem uhel `alpha`
