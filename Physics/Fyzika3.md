@@ -1593,3 +1593,22 @@ FG = G
 ```
 
 + **Coriolisova sila** - je setrvacna sila pusobici na telesa, ktera se pohybuji v rotujici neinercialni vztazne soustave tak, ze se meni jejich vzdalenost od osy otaceni
+
+## Pohyby teles v homogennim tihovem poli
+
++ V homogennim tihovem poli Zeme je tihove zrychleni v kazdem miste pole stejne (`g` je konstantni)
+
+Druhy pohybu teles v homogennim tihovem poli
+```
+1. Jednoduche (volny pad)
+2. Slozene (vrhy)
+```
+
+### Volny pad 
+
++ Kona kazde teleso bez udeleni pocatecni rychlosti. Je to pohyb primocary a rovnomerne zrychleny
+
+```
+s = 1/2gt^2
+v = gt
+```
