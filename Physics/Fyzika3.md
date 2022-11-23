@@ -1606,9 +1606,21 @@ Druhy pohybu teles v homogennim tihovem poli
 
 ### Volny pad 
 
-+ Kona kazde teleso bez udeleni pocatecni rychlosti. Je to pohyb primocary a rovnomerne zrychleny
++ Kona kazde teleso bez udeleni pocatecni rychlosti. Je to pohyb primocary a rovnomerne zrychleny, nema `v0`
 
 ```
 s = 1/2gt^2
 v = gt
 ```
+
+### Vrhy 
+
+Vrh kona teleso, ktere je ve vakuu v homogennim tihovem poli Zeme udelena pocatecni rychlost `v0`...
+
++ **Vrh svisly dolu** - vrh svisly dolu
+
++ **Vrh svisly vzhuru** - vrh svisly vzhuru kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` opacny smer nez tihove zrychleni `g`
+
++ **Vodorovny vrh** - vodorovny vrh kona teleso tehdy, je-li jeho pocatecni rychlost `v0` kolma ke smeru tihoveho zrychleni `g`
+
++ **Sikmy vrh** - sikmy vrh kona teleso tehdy, svira-li jeho pocatecni rychlost `v0` s vodorovnym smerem uhel `alpha`
