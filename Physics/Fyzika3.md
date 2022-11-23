@@ -1617,9 +1617,25 @@ v = gt
 
 Vrh kona teleso, ktere je ve vakuu v homogennim tihovem poli Zeme udelena pocatecni rychlost `v0`...
 
-+ **Vrh svisly dolu** - vrh svisly dolu
++ **Vrh svisly dolu** - vrh svisly dolu kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` stejny smer jako tihove zrychleni `g`
 
-+ **Vrh svisly vzhuru** - vrh svisly vzhuru kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` opacny smer nez tihove zrychleni `g`
++ **Vrh svisly vzhuru** - vrh svisly vzhuru kona teleso tehdy, ma-li jeho pocatecni rychlost `v0` opacny smer nez tihove zrychleni `g`. Je to rovnomerne zpomaleny pohyb se zrychlenim opacneho smeru `g`...
+
+```
+     ^  |  - gt
+     |  V
+     |  ^
+     |  |  v = v0 - gt
+     |  |
+    [0]
+
+d = v0t - 1/2gt^2
+```
+... kde `d` je okamzita vyska
+
+```
+
+```
 
 + **Vodorovny vrh** - vodorovny vrh kona teleso tehdy, je-li jeho pocatecni rychlost `v0` kolma ke smeru tihoveho zrychleni `g`
 
