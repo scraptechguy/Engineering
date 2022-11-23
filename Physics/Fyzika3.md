@@ -1535,9 +1535,6 @@ K = ----  -->  Fg = mK  -->  Fg = m * ag -->  K = ag
 ***
 
 Priklady
-
-</details>
-
 ```
 1. Vzdalenost Zeme od Slunce je 150 milionu kilometru,
 obezna doba Zeme je 365,25 dni. Urcete...
@@ -1672,7 +1669,7 @@ h_max = v0t - 1/2gtv^2  -->  v0^2 / 2g
 
 _____________________ zem  
 ```
-... polohu telesa pri sikmem vrhu urcujeme ve zvolene souradnicove vztazne soustave
+... polohu telesa pri vodorovnem vrhu urcujeme ve zvolene souradnicove vztazne soustave
 
 ```
 d = v0 * (2h / g)^0.5
@@ -1680,3 +1677,73 @@ d = v0 * (2h / g)^0.5
 ... kde `d` je delka vrhu
 
 + **Sikmy vrh** - sikmy vrh kona teleso tehdy, svira-li jeho pocatecni rychlost `v0` s vodorovnym smerem uhel `alpha`
+
+```
+     ^
+    /       x = v0t * cos(alpha)
+   /        y = v0t * sin(alpha) - 1/2gt^2
+[0]
+_____________________ zem 
+```
+... polohu telesa pri sikmem vrhu urcujeme ve zvolene souradnicove vztazne soustave
+
+```
+d = (v0^2 * sin(2 * alpha) / g)
+
+td = (2v0 * sin(alpha) / g)
+```
+... kde `d` je delka vrhu a `td` doba, za kterou teleso dopadne
+
+***
+
+Priklady
+
+```
+1. Teleso je vrzeno svisle vzhuru pocatecni rychlosti 30 m/s. Urcete: 
+    a) velikost okamzite rychlosti za dobu 1 s, 2 s a 3 s
+    b) vysku telesa nad povrchem za dobu 1 s, 2 s a 3 s
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+v0 = 30 m/s
+g = 10 ms^-2
+___________________
+
+a) velikost okamzite rychlosti za dobu 1 s, 2 s a 3 s
+    v = v0 - gt
+    v = 30 m/s - g[1, 2, 3] = [20 m/s, 10 m/s, 0 m/s]
+
+ b) vysku telesa nad povrchem za dobu 1 s, 2 s a 3 s
+    d = v0t - 1/2gt^2
+    d = 30 m/s * [1, 2, 3] - 1/2g * [1, 2, 3]^2 = [25 m, 40 m, 45 m]
+```     
+
+</details>
+
+```
+2. Jakou rychlosti musime vyhodit mic svisle vzhuru, 
+aby vystoupil do vysky 5 m, a za jakou dobu se vrati zpet
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+h_max = 5 m
+g = 10 ms^-2
+___________________
+
+h_max = v0^2 / 2g
+v0 = (h_max * 2g)^0.5
+v0 = (5 m * 20)^0.5 = 10 m/s
+
+```     
+
+</details>
