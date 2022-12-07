@@ -1772,3 +1772,40 @@ v0 = (200 / 0.5)^0.5 = 20 m/s
 ```     
 
 </details>
+
+<*neco* chybi>
+
+## Keplerovy zakony
+
++ Plati pro pohyb planet v gravitacnim poli Slunce
+
+Predstavy o usporadani vesmiru 
+```
+1. Geocentricky nazor - Zeme stredem vesmiru
+2. Heliocentricky nazor - Slunce stredem
+```
+
+### Prvni Kepleruv zakon
+
++ Planety se pohybuji po elipsach malo odlisnych od kruznic, v jejichz spolecnem ohnisku je slunce
+
+```
+
+```
+
+### Druhy Kepleruv zakon
+
++ Obsahy ploch opsanych pruvodicem planety za jednotku casu jsou konstantni. Pohyb planety po elipticke trajektorii je nerovnomerny
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kepler_laws_diagram.svg/1920px-Kepler_laws_diagram.svg.png">
+
+Graficky zobrazeny druhy Kepleruv zakon
+</div>
+
++ **Perihelium** - objekt je nejblize ohnisku elipsy (prisluni),
++ **Afelium** - objekt je nevice vzdaleny od ohniska elipsy (odsluni)
+
+### Treti Kepleruv zakon
+
++ 
