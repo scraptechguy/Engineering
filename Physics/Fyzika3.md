@@ -36,6 +36,7 @@
 
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#mechanika-tuheho-telesa-1">Mechanika tuheho telesa</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#moment-sily">Moment sily</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1857,6 +1858,29 @@ ___________________
 
 # Mechanika tuheho telesa
 
-+ **Tuhe teleso** - tuha telesa jsou usporadane soubory castic (atomu, molekul, iontu)
++ **Tuhe teleso** - tuha telesa jsou usporadane soubory castic (atomu, molekul, iontu), je to idealni teleso, jehoz tvar a objem se ucinkem libovolne velkych sil nemeni 
 
-Mezi casticemi telesa navzajem pusobi vnitrni sily (pritazlive i odpudive). Castice proto konaji neusporadany (tepelny) pohyb
+Mezi casticemi telesa navzajem pusobi vnitrni sily (pritazlive i odpudive). Castice proto konaji neusporadany (tepelny) pohyb. Pri zkoumani nekterych mechanickych vlastnosti...
+
+```
+- neprihlizime k casticove strukture latek
+- je povazujeme za spojite prostredi (kontinuum)
+```
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freepngimg.com%2Fdownload%2Fshape%2F29382-4-cube-hd.png&f=1&nofb=1&ipt=b3f4d5c66a14f097ce8a28d77b9c4b9a08fef8262db5fce2858634b8c5c1616a&ipo=images">
+
+Priklad tuheho telesa
+</div>
+
+#### Pohyb tuheho telesa...
+
++ **Posuvny pohyb** - pri posuvnem pohybu telesa vsechny body telesa maji v libovolnem okamziku stejnou okamzitou rychlost
+
++ **Otacivy pohyb** - pri otacivem pohybu telesa vsechny body telesa maji v libovolnem okamziku stejnou uhlovou rychlost
+
+**Volna osa otaceni** - osa otaceni je volna tehdy, je-li latka telesa rozlozena rovnomerne kolem osy (napr. kolo)
+
+**Pusobiste sily** - pusobiste sily je bod, v nemz pusobi sila na teleso
+
+## Moment sily
