@@ -1893,6 +1893,8 @@ M = Fr
 
 Moment sily vzhledem k ose otaceni je vektor, jehoz smer urcujeme pravidlem prave ruky... **Zahnute prsty ukazuji smer otaceni telesa, palec ukazuje smer vektoru momentu sily. Vektor momentu sily lezi v ose otaceni**
 
++ **Momentova veta** - Otacivy ucinek sil pusobicich na tuhe teleso se rusi, je-li vektorovy soucet momentu vsech sil nulovy
+
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Moment_arm.svg/440px-Moment_arm.svg.png">
 
@@ -1920,4 +1922,4 @@ Teleso se muze otacet v...
 2. Zapornem smyslu (po smeru hodinovych rucicek)
 ```
 
-+ Rameno pusobici sily je kolma vzdalenost mezi vektorovou primkou sily a osou otaceni
++ Rameno pusobici sily je kolma vzdalenost mezi vektorovou primkou sily a osou otaceni...
