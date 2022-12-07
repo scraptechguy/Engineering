@@ -32,6 +32,7 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#newtonuv-gravitacni-zakon">Newtonuv gravitacni zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#intenzita-gravitacniho-pole">Intenzita gravitacniho pole</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#gravitacni-a-tihova-sila">Gravitacni a tihova sila</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#keplerovy-zakony">Keplerovy zakony</a>
 
 ****
 
