@@ -1778,6 +1778,10 @@ v0 = (200 / 0.5)^0.5 = 20 m/s
 
 ***
 
+<div align="right">
+    <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#kapitoly">^</a>
+</div>    
+
 ## Keplerovy zakony
 
 + Plati pro pohyb planet v gravitacnim poli Slunce
