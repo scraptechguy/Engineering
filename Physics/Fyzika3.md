@@ -1884,3 +1884,40 @@ Priklad tuheho telesa
 **Pusobiste sily** - pusobiste sily je bod, v nemz pusobi sila na teleso
 
 ## Moment sily
+
++ Moment sily vzhledem k ose otaceni je velicina, ktera vyjadruje otacivy ucinek sily na teleso. Ma znacku `M` a jednotkou jsou `N * m`.
+
+```
+M = Fr
+```
+
+Moment sily vzhledem k ose otaceni je vektor, jehoz smer urcujeme pravidlem prave ruky... **Zahnute prsty ukazuji smer otaceni telesa, palec ukazuje smer vektoru momentu sily. Vektor momentu sily lezi v ose otaceni**
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Moment_arm.svg/440px-Moment_arm.svg.png">
+
+Schema momentoveho ramene
+</div>
+
+Otacivy ucinek sily pusobici na teleso zavisi na...
+
+```
+1. velikosti a smeru teto sily
+2. poloze pusobiste sily vzhledem k ose otaceni
+```
+
+Otacivy ucinek sily se neprojevi, jestlize...
+
+```
+1. vektorova primka sily prochazi osou otaceni
+2. vektorova primka sily je rovnobezna s osou otaceni
+```
+
+Teleso se muze otacet v...
+
+```
+1. Kladnem smyslu (proti smeru pohybu hodinovych rucicek)
+2. Zapornem smyslu (po smeru hodinovych rucicek)
+```
+
++ Rameno pusobici sily je kolma vzdalenost mezi vektorovou primkou sily a osou otaceni
