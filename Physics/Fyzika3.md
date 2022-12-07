@@ -1775,6 +1775,8 @@ v0 = (200 / 0.5)^0.5 = 20 m/s
 
 <*neco* chybi>
 
+***
+
 ## Keplerovy zakony
 
 + Plati pro pohyb planet v gravitacnim poli Slunce
@@ -1789,23 +1791,59 @@ Predstavy o usporadani vesmiru
 
 + Planety se pohybuji po elipsach malo odlisnych od kruznic, v jejichz spolecnem ohnisku je slunce
 
-```
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kepler_laws_diagram.svg/1920px-Kepler_laws_diagram.svg.png">
 
-```
+Elipsovite obezne drahy
+</div>
 
 ### Druhy Kepleruv zakon
 
 + Obsahy ploch opsanych pruvodicem planety za jednotku casu jsou konstantni. Pohyb planety po elipticke trajektorii je nerovnomerny
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kepler_laws_diagram.svg/1920px-Kepler_laws_diagram.svg.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Kepler-second-law.gif">
 
 Graficky zobrazeny druhy Kepleruv zakon
 </div>
 
-+ **Perihelium** - objekt je nejblize ohnisku elipsy (prisluni),
++ **Perihelium** - objekt je nejblize ohnisku elipsy (prisluni)
 + **Afelium** - objekt je nevice vzdaleny od ohniska elipsy (odsluni)
 
 ### Treti Kepleruv zakon
 
-+ 
++ Pomer druhych mocnin obeznych dob dvou planet se rovna pomeru tretich mocnin delek hlavnich poloos jejich trajektorii
+
+```
+T1^2    a1^3
+---- = ------
+T2^2    a2^3
+```
+... kde `T` je obezna doba a `a` delka hlavni poloosy trajektorie
+
+Priklady 
+
+</details>
+
+```
+1. Urcete stredni vzdalenost planety Uran od Slunce, 
+je-li obezna doba 84 let.
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+T1 = 84 let
+T2 = 1 rok
+a2 = 1 AU
+___________________
+
+84^2     a1^3
+----- = ------  -->  a3 = 19,2 AU
+ 1^2     1^3
+```     
+
+</details>
