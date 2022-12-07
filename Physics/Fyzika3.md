@@ -34,6 +34,8 @@
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#gravitacni-a-tihova-sila">Gravitacni a tihova sila</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#keplerovy-zakony">Keplerovy zakony</a>
 
+
+#### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#mechanika-tuheho-telesa-1">Mechanika tuheho telesa</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1852,3 +1854,9 @@ ___________________
 ```     
 
 </details>
+
+# Mechanika tuheho telesa
+
++ **Tuhe teleso** - tuha telesa jsou usporadane soubory castic (atomu, molekul, iontu)
+
+Mezi casticemi telesa navzajem pusobi vnitrni sily (pritazlive i odpudive). Castice proto konaji neusporadany (tepelny) pohyb
