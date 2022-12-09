@@ -38,6 +38,7 @@
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#mechanika-tuheho-telesa-1">Mechanika tuheho telesa</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#moment-sily">Moment sily</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#skladani-sil">Skladani sil</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#rozklad-sil">Rozklad sil</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -2020,3 +2021,59 @@ M3 = F3 * (d1 + d2) = 40 N * 0,8 m = 32 Nm
 d = ---------------- = ------- = 0,6 m
          Fv             50 N
 ```     
+
+</details>
+
+## Rozklad sil 
+
+Rozlozit silu na slozky dane vyslednice znamena najit dve nebo vice jednotlivych sil, ktere byly do vyslednice slozene
+
++ Pri rozkladu sily na dve rovnobezne slozky plati, ze soucet velikosti slozek je rovny velikosti sily, kterou rozkladame...
+
+```
+F = F1 + F2
+```
+
++ Pomer vzdalenosti vektorovych primek slozek od vektorove primky sily, kterou rozkladame, se rovna prevracenemu pomeru velikosti slozek...
+
+```
+ F1     r2
+---- = ----
+ F2     r1
+```
+
+Priklady
+
+</details>
+
+```
+1. Dva muzi nesou bremeno o hmotnosti 90 kg zavesene na tyci o zanedbatelne hmotnosti. 
+Prvni z nich opira tyc o rameno ve vzdalenosti 0,6 m a druhy 0,9 m od zavesneho bodu bremena. 
+Jak velkou silou na kazdeho z nich pusobi?
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+m = 90 kg
+d1 = 0,6 m
+d2 = 0,9 m
+
+Fg = ?
+Fv = ? N
+d = ? m
+_______________________
+
+Fg = F1 + F2
+F1d1 = F2d2
+
+Fg = 90 kg * 10 ms^-2 = 900 N
+
+900 N = (F2d2 / d1) + F2  --> F2 = 360 N
+360 N + F1 = 900 N  --> F1 = 540 N
+```     
+
+</details>
