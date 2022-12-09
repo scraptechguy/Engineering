@@ -1972,3 +1972,51 @@ M1 - M2 = 0  -->  F1r1 - F2r2 = 0
 Fv = F2 - F1
 ```
 
+Priklady
+
+</details>
+
+```
+1. Na tyc pusobi 3 rovnobezne sily, najdete velikost vyslednice sil, 
+a polohu jejiho pusobiste, jestlize...
+
+    F1 = 20 N       d1 = 0,2 m
+    F2 = 10 N       d2 = 0,6 m
+    F3 = 40 N 
+
+            ^
+   d1       |  F2   d2
+-----------|||--------
+|                    |
+|  F1            F3  |
+V                    |
+                     V   
+```
+
+<details>
+<summary>
+  Reseni
+</summary>
+
+```
+Fv = ? N
+d = ? m
+____________________
+
+Fv = + F1 - F2 + F3
+Fv = 20 N - 10 N + 40 N = 50 N
+
+Mv = Fv * d
+
+     Mv     |M1| + |M2| + |M3|
+d = ---- = --------------------
+     Fv             Fv
+
+M1 = F1 * 0 m = 0 Nm
+M2 = F2 * d1 = 10 N * 0,2 m = 2 Nm
+M3 = F3 * (d1 + d2) = 40 N * 0,8 m = 32 Nm
+
+      M1 + M3 - M2      30 Nm
+d = ---------------- = ------- = 0,6 m
+         Fv             50 N
+```     
