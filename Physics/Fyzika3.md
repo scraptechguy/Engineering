@@ -37,6 +37,7 @@
 
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#mechanika-tuheho-telesa-1">Mechanika tuheho telesa</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#moment-sily">Moment sily</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika3.md#skladani-sil">Skladani sil</a>
 ****
 
 # Fyzikalni veliciny a jednotky
@@ -1923,3 +1924,51 @@ Teleso se muze otacet v...
 ```
 
 + Rameno pusobici sily je kolma vzdalenost mezi vektorovou primkou sily a osou otaceni...
+
+## Skladani sil 
+
++ Skladat sily pusobici na tuhe teleso znamena urcit silu, ktera ma na dane teleso stejny ucinek jako sily, ktere skladame. 
+
+#### Skladani sil pusobicich v ruznych bodech
+
++ **Sily jsou rovnobezne a maji stejny smer** - z momentove vety muzeme pro velikost vyslednice a jeji polohu psat...
+
+```
+-----------|||--------
+|           |        |
+|  F1       |    F2  |
+V           |        |
+        Fv  |        V
+            |
+            V      
+
+M1 - M2 = 0  -->  F1r1 - F2r2 = 0
+
+ F1     r2
+---- = ----
+ F2     r1
+
+Fv = F1 + F2
+```
+
++ **Sily jsou rovnobezne, opacneho smeru** - z momentove vety muzeme pro velikost vyslednice a jeji polohu psat...
+
+```
+                     ^
+                 F2  |
+                     |
+-----------|||--------
+|           |        
+|  F1       V    
+|             Fv       
+V                
+            
+M1 - M2 = 0  -->  F1r1 - F2r2 = 0
+
+ F1     r2
+---- = ----
+ F2     r1
+
+Fv = F2 - F1
+```
+
