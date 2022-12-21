@@ -2077,3 +2077,6 @@ Fg = 90 kg * 10 ms^-2 = 900 N
 ```     
 
 </details>
+
+`<teziste chybi>`
+
