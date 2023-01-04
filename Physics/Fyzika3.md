@@ -2080,3 +2080,68 @@ Fg = 90 kg * 10 ms^-2 = 900 N
 
 `<teziste chybi>`
 
+## Rovnovazna poloha tuheho telesa
+
++ Tuhe teleso otacive kolem nehybne osy je v rovnovazne poloze, jestlize jsou vektorove soucty vsech sil a vektorove soucty vsech momentu sil jsou nulove a teleso je v klidu
+
+#### Rovnovazna poloha stabilni
+
+U telesa v rovnovazne poloze stabilni osa otaceni telesa je nad tezistem, po vychyleni telesa roste potencialni tihova energie telesa, moment tihove sily teleso vrati zpet do stale polohy
+
+#### Rovnovazna poloha indiferentni
+
+U telesa v rovnovazne poloze indiferentni osa otaceni telesa prochazi tezistem
+
+#### Rovnovazna poloha labilni
+
+U telesa v rovnovazne poloze labilni lezi teziste nad osou otaceni telesa. Teleso se chce vratit do polohy stabilni
+
++ **Stalost rovnovazne polohy** - stabilita teles se meri velikosti prace, kterou musime vykonat, abychom teleso prevratili z rovnovazne polohy stabilni do rovnovazne polohy labilni
+
+## Rovnomerny otacivy pohyb telesa kolem nehybne osy
+
++ Jednotlive body telesa rotujiciho kolem osy se pohybuji stejnymi uhlovymi rychlostmi
+
+```
+       1
+Ek = --- J omega^2
+       2
+```
+... kde `J` je moment setrvacnosti telesa a `Ek` kineticka energie rotujiciho telesa
+
+```
+J = kmr^2
+```
+... kde `k` je charakteristika rozlozeni latky kolem osy otaceni (je specificke pro ruzne predmety)
+
+***
+
+Priklady
+
+```
+1. Jakou energii ma kruhovy kotouc o hmotnosti 8 kg a 
+polomeru 25 cm, jestlize za jednu minutu vykona 500 otacek? 
+
+k = 1/2
+```
+
+```
+m = 8 kg
+r = 0,25 m
+______________
+
+J = 1/2mr^2
+```
+
+```
+2. Na koncich tenke tyce o zanedbatelne male hmotnosti a delce 0,8 m jsou upevneny kulicky o hmotnostech 0,3 kg a 0,1 kg. 
+Tyc se otaci kolem osy kolme k tyci uhlovou rychlosti 10 rad/s.
+Vypoctete kinetickou energii soustavy, jestlize osa otaceni prochazi:
+
+    a) tezistem soustavy
+    b) stredem tyce
+```
+
+```
+
+```
