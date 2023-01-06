@@ -2196,4 +2196,6 @@ p = ---
 p = h * rho * g
 ```
 
-Tlak zpusoben vlastni tihovou silou kapaliny je **hydrostaticky tlak**
+Tlak zpusoben vlastni tihovou silou kapaliny je **hydrostaticky tlak**. Tlakove pomery v kapaline matematicky zobrazujeme tlakovym polem. Tlak je skalar - zobrazuje se skalarnim polem
+
++ **Hydrostaticky paradox** - velikost tlakove sily kapaliny na dno nadoby nezavisi na hmotnosti kapaliny v nadobe. Zavysi jen na hloubce `h`, hustote a `g`
