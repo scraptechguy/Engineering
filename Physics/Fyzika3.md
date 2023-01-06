@@ -2145,3 +2145,55 @@ Vypoctete kinetickou energii soustavy, jestlize osa otaceni prochazi:
 ```
 
 ```
+
+# Mechanika kapalin a plynu
+
+Kapaliny a plyny se spolecne nazyvaji **tekutiny**
+
+#### Vlastnosti kapalin 
+
+```
+1. Tekutost - nemaji staly tvar, nabyvaji tvar nadob, do nichz byli nalite
+2. Maji volnou hladinu na volnem povrchu, kolmou k tihove sile
+3. Maji viskozitu
+4. Jsou stlacitelne (malo)
+5. Jejich tlakove sily pusobi kolmo k libovolne plose
+6. Vyskytuji se u nich kapilarni jevy
+```
+
+#### Vlastnosti plynu
+
+```
+1. Tekutost
+2. Maji viskozitu
+```
+
++ **Idealni kapalina** - zanedbava molekulovou strukturu, povazujeme ji za spojitou (kontinuum), je bez vnitrniho treni a **neni** stlacitelna
+
++ **Idealni plyn** - zanedbava molekulovou strukturu, je bez vnitrniho treni a **je** dokonale stlacitelny
+
+## Tlak v kapalinach
+
+Stav kapaliny v klidu v urcitem miste vyjadruje velicina **tlak**. Tlakova sila `F` je spusobena narazy castic na plochu `S`, ktera je ve stuku s kapalinou
+
+Tlak v kapaline v klidu muze byt zpusoben...
+
++ **Vnejsi silou** - priblizenim molekul pusobi vetsi odpudive mezimolekularni sily -> stlacovani je po urcite dobe velmi obtizne
+
+#### Pascaluv zakon  
+
+Tlak vyvolany vnejsi silou, ktera pusobi na kapalne telso v uzavrene nadobe, je ve vsech mistech kapaliny stejny...
+
+```
+     F
+p = ---
+     S
+```
+
++ **Vlastni tihovou silou `Fg`** - velike mnozstvi castic zpusobuje vysoky tlak ve spodnich castech kapaliny...
+
+```
+p = h * rho * g
+```
+
+Tlak zpusoben vlastni tihovou silou kapaliny je **hydrostaticky tlak**
