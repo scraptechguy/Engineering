@@ -2240,3 +2240,11 @@ p + 1/2 * rho * v^2 je konstantni
 ```
 
 #### Bernoulliho rovnice
+
+```
+p1 + 1/2 * rho * v1^2 = p2 + 1/2 * rho * v2^2
+```
+
+... zakon zachovani mechanicke energie proudici idealni kapaliny ve vodorovne trubici
+
++ Hydrodynamicky paradox - zuzeni trubice, kterou proteka kapalina, vyvola snizeni tlaku v kapaline
