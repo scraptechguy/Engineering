@@ -205,7 +205,7 @@ Felogen
 
 + stonek tloustne, pokozka praska -> zaklada se blizko pod povrchem, ven: korek, dovnitr: zeleou kuru, novy vzdy hloubeji
 
-Borka (ty???)
+Borka 
 - hodne rozbrazdena, hladka
 
 lentilky se jmenuji podle latinskeho cocka (lenticel)
