@@ -2199,3 +2199,44 @@ p = h * rho * g
 Tlak zpusoben vlastni tihovou silou kapaliny je **hydrostaticky tlak**. Tlakove pomery v kapaline matematicky zobrazujeme tlakovym polem. Tlak je skalar - zobrazuje se skalarnim polem
 
 + **Hydrostaticky paradox** - velikost tlakove sily kapaliny na dno nadoby nezavisi na hmotnosti kapaliny v nadobe. Zavysi jen na hloubce `h`, hustote a `g`
+
+```
+3
+8 m/s
+```
+
+`<neco chybi>`
+
+## Bernoulliho rovnice
+
+Kapalina v potrubi ma kinetickou a tlakovou energii, pusobenim tlakove sily...
+
+```
+W = F * delta x
+```
+
+Jestlize `delta V = 1 m^3`, pak `p = W = Et`...
+
+```
+Pa = N / m^2 = N * m / M^3 = J / m^3
+```
+
+Ciselna hodnota tlaku kapaliny `p` urcuje ciselnou hodnotu tlakove energie `Et` jednotkoveho objemu kapaliny...
+
+Hydrostaticky tlak `p` v manometricke trubici urcuje hodnotu tlakove energie `Et` jednotkoveho objemu
+
+Kineticka energie jednotkoveho objemu kapaliny...
+
+```
+Ek = 1/2 * rho * v^2
+```
+
+Celkova energie jednotkoveho objemu proudici kapaliny...
+
+```
+Ec = Et + Ek je konstantni
+
+p + 1/2 * rho * v^2 je konstantni
+```
+
+#### Bernoulliho rovnice
