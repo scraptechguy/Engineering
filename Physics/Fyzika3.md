@@ -2248,3 +2248,83 @@ p1 + 1/2 * rho * v1^2 = p2 + 1/2 * rho * v2^2
 ... zakon zachovani mechanicke energie proudici idealni kapaliny ve vodorovne trubici
 
 + Hydrodynamicky paradox - zuzeni trubice, kterou proteka kapalina, vyvola snizeni tlaku v kapaline
+
+# Mechanicke kmitani
+
+Pohyb ktery se pravidelne opakuje, je kmitavy pohyb
+
++ Priciny kmitaveho pohybu - tihova sila, sila pruznosti
+
++ Vlastnosti kmitaveho pohybu - je primocary, krivocary, otacivy, nerovnomerny
+
+**Oscilator** - kazde zarizeni, jez muze volne kmitat
+
+**Kmit** - periodicky opakujici se cast kmitaveho pohybu (tam a zpet)
+
+**Kyv** - jen tam, nebo zpet
+
+**Doba kmitu (perioda `T`)** - cas, za ktery prebehne jeden kmit
+
+**Frekvence (*`f`*)** - udava pocet kmitu za jednu sekundu, je rovna prevracene hodnote periody
+
+## Kinematika kmitaveho pohybu
+
+Pruzinovy oscilator kmita kolem urciteho bodu. Ve chvili kdy se tihova sila a sila pruznosti pruziny rovnaji, je oscilator v **rovnovazne poloze**
+
+```
+        [0]
+         |
+         |      ^
+         |      |   F1
+         *      -
+                |   Fg
+                V
+```
+
+Velicina draha se nahrazuje velicinou se jmenem **okamzita vychylka `y`** (vzdalenost telesa od rovnovazne polohy)
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fedu.techmania.cz%2Fsites%2Fdefault%2Ffiles%2Fencyklopedie%2Finsert%2F2_5.gif&f=1&nofb=1&ipt=0c8ba8dea2a014916b18aa92818683d88773d413bc3d6fc3849b79bfbc7e5fc5&ipo=images">
+
+Casovy diagram kmitaveho pohybu
+</div>
+
++ **Okamzita vychylka** - 
+
+```
+prumet pruvodice    ->  okamzita vychylka       (rp -> y)
+velikost pruvodice  ->  amplituda               (r -> ym)
+uhel otoceni        ->  faze kmitaveho pohybu   (alpha -> alpha)
+uhlova rychlost     ->  uhlova frekvence        (omega -> omega)
+
+...
+
+y = ym * sin(omega) * t
+omega = 2pi * f
+alpha = omega * t
+y = r * sin(alpha)
+```
+
+Priklady 
+
+```
+Hmotny bod kmita s amplitudou vychylky 1,5 cm a s periodou 0,2 s.
+Napiste rovnici harmonickeho kmitani.
+```
+
+#### Vztah pro okamzitou rychlost
+
+```
+v = omega * ym * cos(omega * t)
+```
+... kde minus upravuje smer zryhleni na ten spravny
+
++ Pri pohybu z amplitudy do rovnovazne polohy je pohyb telesa zrychleny, zrychleni ma smer pohybu telesa
+
++ Pri pohybu z rovnovazne polohy do amplitudy je pohyb telesa zpomaleny, zrychleni ma smer proti pohybu telesa
+
+Kmitavy pohyb je...
+```
+1. pri pohybu telesa z rovnovazne polohy do amplitudy zpomaleny
+2. pri pohybu telesa do rovnovazne polohgy zrychleny
+```
