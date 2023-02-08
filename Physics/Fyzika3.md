@@ -2317,6 +2317,19 @@ Napiste rovnici harmonickeho kmitani.
 ```
 v = omega * ym * cos(omega * t)
 ```
+
+... rychlost kmitaveho pohybu se meni periodicky podle funkce kosinus
+
+Amplituda rychlosti je pak...
+
+```
+vm = omega * ym
+```
+
+```
+a = - omega^2 * ym * sin(omega * t)
+```
+
 ... kde minus upravuje smer zryhleni na ten spravny
 
 + Pri pohybu z amplitudy do rovnovazne polohy je pohyb telesa zrychleny, zrychleni ma smer pohybu telesa
