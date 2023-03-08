@@ -2341,3 +2341,60 @@ Kmitavy pohyb je...
 1. pri pohybu telesa z rovnovazne polohy do amplitudy zpomaleny
 2. pri pohybu telesa do rovnovazne polohgy zrychleny
 ```
+
+```
+y = ym sin (wt +j0)
+```
+
+... veličina j0 je počáteční fáze kmitavého pohybu. Určuje hodnotu okamžité výchylky či jiné veličiny harmonického kmitání v počátečním okamžiku.
+
+Δt – odchylka času
+t – čas
+ym – amplituda
+y – odchylka
+
+φ – fáze kmitavého pohybu 
+= úhel zachycující zpoždění konkrétního kmitavého pohybu
+
+Složené kmitání - Vzniká při spojení více oscilátorů
+
++ Skládání harmonického kmitání o stejné frekvenci -> harmonické kmitání o stejné frekvenci, amplituda závisí na rozdílu fáze
+Kmitání v protifázi –> φ = π 
+
+Výchylka - součet výchylek jednotlivých oscilátorů
+
+Princip superpozice - okamžitá výchylka bodu konajícího současně několik kmitavých pohybů je dána součtem všech výchylek
+
+Skládání kmitání s blízkou frekvencí -> vznikají rázy
+Skládání na sebe kolmého kmitání -> Lissajousovy obrazce
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedu.techmania.cz%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Fencyklopedie%2Finsert%2F10_7.gif%3Fitok%3D4EqCUvzP&f=1&nofb=1&ipt=05e3346561bbecab95cc57b6abe5661e0b2122efe12097013b9de5171306a3ff&ipo=images">
+
+Faze kmitani
+</div>
+
+Kmitani maji...
+```
+1. stejnou periodu a frekvenci
+2. odlisnou amplitudu
+3. odlisnou pocatecni fazi kmitani
+```
+
++ **Izochromni kmitani** - maji stejnou periodu a frekvenci, probihaji v jedne primce
+
+## Dynamika kmitaveho pohybu
+
+```
+l0 = 2,5 cm
+
+150 cm, 125 kmitu, 300 s
+g = ?
+
+1 m, na mesici l?? mesic g = 
+
+1... 9.8
+x... 1.63
+
+0.16 m
+```
