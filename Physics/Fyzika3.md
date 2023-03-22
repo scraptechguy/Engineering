@@ -2398,3 +2398,70 @@ x... 1.63
 
 0.16 m
 ```
+
+Vnejsi sila F vykona praci W a o ni se zvetsi mechanicka energie oscilatoru
+
+Pri nucenem kmitani kmita vzdy oscilator s frekvenci nejsiho pusobeni 
+
+Nucene kmitani vznika pusobenim sily nebo napeti na oscilator a take na objekty, ktere nemaji vlastnosti oscilatoru
+
+## Kineticka teorie stavby latek
+
+#### 3 zname poznatky
+```
+1. Kazde teleso se sklada z castic, ktere jsou slozeny z mensich tzv. elementarnich castic 
+
+2. Tyto castice jsou v neustalem neusporadanem pohybu. Tento pohyb nazyvame tepelny
+
+3. Vsechny castice na sebe navzajem pusobi soucasne pritazlivymi i odpudivymi silami, pricemz velikost techto sil zavisi na vzdalenosti mezi casticemi
+```
+
++ **Difuze** - samovolne pronikani castic jedne latky mezi castice latky druhe, zpusobene jejich neusporadanym pohybem, probiha ve vsech skupenstvich a s vyssi teplotou probiha rychleji
+
++ **Osmoza** - jev vyvolany narazy molekul dopadajicich na steny nadoby s plynem
+
++ **Brownuv pohyb** - neustaly a chaoticky pohyb malych castic rozptylenych v plynu nebo kapaline zpusobeny nepravidelnymi narazy molekul plynu nebo kapaliny na mikroskopicke castice
+
+### Vzajemne pusobeni castic
+
+Z kineticke teorie stavby latek plyne...
+
++ na kazdou castici v latce pusobi ostatni castice soucasne pritazlivymi i odpudivymi silami a tyto síly mohou být mechanického, elektrického nebo kvantového původu
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/75474651/226890395-616e8098-7996-4b34-8efb-5eebe606888d.png">
+
+Graf zavislosti velikosti pusobici sily (F) mezi dvema casticemi na vzdalenosti mezi casticemi (r)
+</div>
+
+#### Zaver
+
++ Soustava castic ma svou vnitrni potencialni energii pro rovnovaznou polohu castic se tato energie nazyva **vazebna energie** a je rovna praci, kterou bychom museli vykonat pusobenim vnejsich sil, aby doslo k rozruseni vazby mezi casticemi
+
+### Modely struktur latek ruznych skupenstvi
+
++ **Skupenstvi plynne** - zakladni vlastnosti je rozpinavost, castice nekmitaji kolem zadne rovnovazne polohy, nejvetsi stredni vzdalenost mezi molekulami
+
++ **Skupenstvi kapalne** - zakladni vlastnosti je tekutost, castice kmitaji kolem rovnovazne polohy, ktera se s casem meni, stredni vzdalenost mezi molekulami
+
++ **Skupenstvi pevne** - zakladni vlastnosti je stalost, castice kmitaji kolem rovnovazne polohy, ktera se s casem nemeni, vzdalenost mezi molekulami je nejmensi
+
+### Rovnovazny stav termodinamicke soustavy
+
++ **Termodinamicka soustava** - teleso nebo jejich skupina jejiz stav z hlediska termodynamiky zkoumame
+
+#### Zaver
+
++ Kazda soustava, ktera je od urciteho okamziku v nemennych vnejsich podminkach, prejde samovolne po urcite dobe do rovnovazneho stavu, v kterem setrvava, pokud jsou tyto podminky zachovany
+
+> Rovnovazny stav je stav s nejvetsi pravdepodobnosti vyskytu
+
+### Termodynamicka teplota
+
++ **Teplota** - stavova fyzikalni velicina, charakterizujici vlastnost predmetu nebo okoli
+
+> Teploty se rozlisuji podle jednotky, ve ktere je teplota udavana. U termodynamicke teploty je to Kelvin (K)
+
+#### Zajimavosti
++ Teplotni rozdily v Celsiove a Kelvinove termodynamicke stupnici jsou stejne (Δt = ΔT) 
++ -273,15 °C = 0 K (absolutní nula) proto zaporne hodnoty v Kelvinech nejsou mozne! a napr. teplota -10 K neexistuje!
