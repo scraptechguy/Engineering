@@ -2465,3 +2465,89 @@ Graf zavislosti velikosti pusobici sily (F) mezi dvema casticemi na vzdalenosti 
 #### Zajimavosti
 + Teplotni rozdily v Celsiove a Kelvinove termodynamicke stupnici jsou stejne (Δt = ΔT) 
 + -273,15 °C = 0 K (absolutní nula) proto zaporne hodnoty v Kelvinech nejsou mozne! a napr. teplota -10 K neexistuje!
+
+## Kalorimetricka rovnice
+
++ Kalorimetricka rovnice vyjadruje zakon zachovani energie pro tepelnou vymen u v kalorimetru
+
+```
+Q1 = Q2
+m1 * c1 * (t1 - tv) = m2 * c2 * (tv - t2) + Ck * (tv - t2)
+```
+... delta t nesmi vyjit zaportne, index 1 je casto prirazovan telesu (napr. valecku) ve vode. Posledni clen rovnice je teplo prijate kalorimetrem
+
++ teplejsi teleso odevzdava teplo chladnejsimu telesu
+
+## Prvni termodynamicky zakon
+
+Soustava energii prijma, nebo odevzdava
+
+```
+W = - W`
+```
+... kde w` je prace, kterou soustava vykonna na okoli
+
++ Teplo `Q` dodane soustave se rovna souctu prirustku jeji vnitrni energie `delta U` a prace `W`, kterou soustava vykona
+
+## Stavova rovnice idealniho plynu
+
++ **Stavove veliciny** - charakterizuji plyn v rovnovaznem stavu (napr. tlak, objem a teplota, ...)
+
+```
+pV = NkT
+
+pV = (m / Mm) * RmT
+
+pV = nRmT
+```
+
+Kolik molekul je za norm. podminek obsazeno v idealnim plynu o objemu 1cm^2? Jak dlouho by trvalo jeho vycerpani kdybychom za kazdou sekundu ubrali 10^6 molekul?
+
+pV / kT = N
+
+0.1013 /
+
+2,1 * 10^5 Pa
+
+
+## Stavove smeny z energetickeho hlediska
+
++ Teplo prijate idealnim plynem pri izotermickem deji se rovna praci, kterou plyn pri tomto deji vykona
+
+t = 18˚C
+
+7,3 MPa
+
+-91˚C
+
+80 
+
+## Krychlova soustava
+
+primitivni 
+
+plosne centrovana
+
+prostorove centrovana
+
+### Poruchy krystalove mrizky
+
+bodove poruchy - vakance, intersticialni ploha (z vakance), primesi (jine vlastnosti)
+
+carove/objemove poruchy - dislokace
+
+kovalentni (tvrda), kovova (tepelna a elektricka vodivost), iontova (propousti viditelne svetlo), vodikova, molekulova
+
+### Deformace
+
+Normalove napeti, 
+
+absolutni prodlouzeni (delka/cislo), relativni prodlouzeni (x100 -> procenta)
+
+graficka zavislost normaloveho napeti sigma = f(epsilon) je krivka deformace
+
+#### Krivka deformace
+
+dovolene napeti - max pripustna hodnota normaloveho napeti
+
+podil meze pevnosti a dovoleneho napeti
