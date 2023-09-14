@@ -3,6 +3,8 @@
 #### <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika4.md#">Elektricky naboj a jeho vlastnosti</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika4.md#coulombuv-zakon">Coulombuv zakon</a>
 + <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika4.md#intenzita-elektrickeho-pole">Intenzita elektrickeho pole</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika4.md#prace-v-homogennim-elektrickem-poli">Prace v homogennim elektrickem poli</a>
++ <a href="https://github.com/scraptechguy/Engineering/blob/main/Physics/Fyzika4.md#elektricky-potencial">Elektricky potencial</a>
 
 # Elektricky naboj a jeho vlastnosti
 
@@ -95,3 +97,68 @@ Vlastnosti silocar elektrickeho pole
 3. navzajem se neprotinaji
 ```
 
+## Prace v homogennim elektrickem poli
+
+Pri premisteni naboje v homogennim poli elektricka sila kona praci `W` ...
+
+```
+Fe = Q * E
+W = Fe * (d1 - d2)
+W = Q * E * d
+```
+... kde `Q` je naboj, `E` intenzita elektrickeho pole a `d` vzdalenost bodu od zaporne desky
+
++ Vykonana prace nezavisi na delce trajektorie, ale na vzdalenosti `d`
+
+### Energie bodoveho naboje v elektrickem poli
+
+Elektricka potencialni energie `Ep` naboje `Q` v urcitem miste elektrickeho pole
+
+```
+W = QEd
+W = Ep
+```
+
++ Elektricka potencialni energie = prace elektrickych sil
+
+## Elektricky potencial
+
+Castice s elektrickym nabojem v elektrickem poli ma potencialni energii `Ep` ...
+
+... elektricky potencial definujeme jako podil elektricke potencialni energie kladneho elektrickeho naboje `Q` v tomto bode pole a velikosti tohoto naboje ...
+
+```
+      Ep
+fi = ----
+      Q
+```
+
+... kde jednotkou elektrickeho potencialu `fi` je `joule / coulomb` neboli **`volt`**
+
+```
+fi = E * d
+```
+
++ Mnozina bodu elektricho pole se stejnym elektrickym potencialem se nazyva ekvipotencialni plocha
+
+> Elektricky potencial klesa smerem k zaporne desce
+
+## Elektricke napeti
+
+Aboslutni hodnota rozdilu potencialu mezi dvema body elektrickeho pole je elektricke napeti ...
+
+```
+U = |fi2 - fi1|
+```
+
+Elektricke napeti mezi kladnou a zapornou deskou je take rovno soucinu intenzity pole a vzdalenosti desek ...
+
+```
+U = E * d
+```
+
+Prace elektrickych sil pri prenaseni naboje `Q` mezi dvema body, mezi nimiz je napeti `U` ...
+
+```
+W = Q * U
+```
