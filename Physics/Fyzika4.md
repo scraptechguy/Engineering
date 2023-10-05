@@ -162,3 +162,52 @@ Prace elektrickych sil pri prenaseni naboje `Q` mezi dvema body, mezi nimiz je n
 ```
 W = Q * U
 ```
+
+## Ohmuv zakon pro uzavreny obvod
+
++ **Vnejsi cast** obvodu tvori rezistory, vodice a spotrebice
+
++ **Vnitrni cast** obvodu tvori vodivy prostor mezi poly uvnitr zdroje
+
+Energie vydana zdroje se premenuje na energii ve vnejsi a vnitrni casti obvodu ...
+
+```
+Ue = U + Ui
+```
+
+... soucet napeti na vnejsi a vnitrni casti elektrickeho obvodu se rovna elektromotorickemu napeti zdroje
+
+**Ohmuv zakon pro uzavreny obvod**... 
+
+```
+      Ue
+I = -------
+    R + Ri
+```
+
+... proud v uzavrenem obvodu se rovna podilu elektoromtorickeho napeti zdroje a souctu odporu vnejsi a vnitrni casti obvodu
+
+Zatizeny zdroj ...
+
+```
+U = Ue - Ri * I
+```
+
+... pri zatizenem zdroji je svorkove napeti `U` mensi nez elektromotoricke napeti zdroje `Ue`
+
+Spojeni nakratko (zkrat) ...
+
+```
+            Ue
+I = Imax = ----
+            Ri
+```
+
+... pri zkratu je odpor vnejsi casti temer nulovy, proud v obvodu dosahuje nejvetsi moznou hodnotu
+
+## Razeni rezistoru
+
++ **Seriove razeni rezistoru** - seriove lze radit libovolny pocet rezistoru, celkovy odpor se vypocita jako soucet vsech odporu
+
++ **Paralelni razeni rezistoru** - misto kde se potkava vice vodicu se jmenuje uzel
+
