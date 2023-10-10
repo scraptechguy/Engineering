@@ -209,5 +209,5 @@ I = Imax = ----
 
 + **Seriove razeni rezistoru** - seriove lze radit libovolny pocet rezistoru, celkovy odpor se vypocita jako soucet vsech odporu
 
-+ **Paralelni razeni rezistoru** - misto kde se potkava vice vodicu se jmenuje uzel
++ **Paralelni razeni rezistoru** - pri paralelnim razeni vyjde celkovy odpor mensi nez nejmensi z nich, misto kde se potkava vice vodicu se jmenuje uzel
 
