@@ -211,3 +211,49 @@ I = Imax = ----
 
 + **Paralelni razeni rezistoru** - pri paralelnim razeni vyjde celkovy odpor mensi nez nejmensi z nich, misto kde se potkava vice vodicu se jmenuje uzel
 
+
+## Kirchhoffovy zakony
+
++ **1. Kirchhoffuv zakon** - proudy vstupujici do uzlu maji kladne znamenko, proudy ktere z nej vystupuji maji zaporne znamenko. **Algebraicky soucet proudu v uzlu se rovna nule.**
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kirchhoff%27s_Current_Law.svg/1024px-Kirchhoff%27s_Current_Law.svg.png">
+
+Prvni kirchhoffuv zakon
+</div>
+
++ **2. Kirchhoffuv zakon** - Soucet ubytku napeti na spotrebicich se v uzavrene casti obvodu (smycce) rovna souctu elektromotorickych napeti zdroju v teto casti obvodu
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Druh%C3%BD_Kirchhoff%C5%AFv_z%C3%A1kon_%282%29.png">
+
+Druhy kirchhoffuv zakon
+</div>
+
+## Elektricka prace a vykon v obvodu s konstantnim proudem
+
+Pri premisteni castic s nabojem `Q` ve vnejsi casti obvodu z jedne svorky zdroje na druhou vykonaji sily elektrickeho pole praci `W` ...
+
+```
+W = UIt
+```
+
+Prace neelektrickych sil uvnitr zfroje je mirou energie, kterou zdroj doda do obvodu ... 
+
+```
+Wz = UeIt
+```
+
+Vykon konstantniho proudu ve spotrebici je elektricky prikon spotrebice `P` ...
+
+```
+P = W / t = UI
+```
+
+Ucinnost zdroje `etha` je tim vetsi, cim vetsi je odpor vnejsi casti obvodu `R` v poronani s vnitrnim odporem droje `Ri` ...
+
+```
+          R
+etha = --------
+       (R + Ri)
+```
