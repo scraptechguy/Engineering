@@ -311,3 +311,53 @@ Jev, pri kterem se magneticka indukce ve feromagnetickem jadru meni podle popsan
 
 Magneticka hystereze
 </div>
+
+## Magneticky indukcni tok
+
+Cim je zavit civky k magnetu bliz, tim je magneticka indukce uprostred zavitu vetsi 
+
++ **Magneticky indukcni tok** (`fi`) - prochazi plochou `S` kolmou k megnetickym indukcnim caram ...
+
+```
+fi = BS
+```
+
+... kdyz plocha `S` neni kolma k indukcnim caram, magneticky indukcni tok se rovna ...
+
+```
+fi = BS * cos(alpha)
+```
+
+... kde `alpha` je uhel mezi normalou plochy zavitu a magnetickymi indukcnimi carami
+
++ Je-li plocha zavitu kolma k magnetickym indukncnim caram, magneticky indukcni tok plochou zavitu je maximalni
+
+Jedna-li se o civku, celkovy magneticky tok je roven `N` nasobku magnetickeho indukcniho toku plochou jednoho zavitu ...
+
+```
+fi = NBS * cos(alpha)
+```
+
+### Elektromagneticka indukce
+
+Vznik indukovaneho elektromotoickeho napeti a indukovaneho proudu ve vodici, ktery se nachazi v netacionarnim magnetickem poli, se nazyva elektromagneticka indukce. 
+
+> **Elektromagneticka indukce je jev, ne velicina.** Indukovany znamena vyvolany.
+
+## Faradayuv zakon elektromagneticke indukce
+
+Indukovane elektromotoricke napeti je rovno zaporne casove smene magnetickeho indukniho toku ...
+
+```
+        delta fi
+Ui = - ----------
+        delta t
+```
+
+Pri pohybu vodice v magnetickem poli se mezi jeho konci indukuje napeti primo umerne `B`, `l` a `v`, neboli ...
+
+```
+Ui = Blv
+```
+
+
