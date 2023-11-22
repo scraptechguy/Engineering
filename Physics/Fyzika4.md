@@ -257,3 +257,57 @@ Ucinnost zdroje `etha` je tim vetsi, cim vetsi je odpor vnejsi casti obvodu `R` 
 etha = --------
        (R + Ri)
 ```
+
+## Faradayovi zakony
+
+**1. Faradayuv zakon** - Hmotnost latky vyloucene na elektrode zavisi primo umerne na elektrickem proudu, prochazejicim elektrolytem, a na case, po ktery elektricky proud prochazel ...
+
+```
+m = A * I * t
+```
+
+... kde `m` je hmotnost vyloucene latky a `A` elektrochemicky potencial
+
+**2. Faradayuv zakon** - Latkova mnozstvi vyloucena stejnym nabojem jsou pro vsechny latky chemicky ekvivalentni, neboli elektrochemicky ekvivalent A zavisi primo umerne na molarni hmotnosti latky ...
+
+
+```
+      M
+A = -----
+    F * z
+```
+
+... kde `F` je Faradayova konstanta (**F = 9,6485 * 10^4 C/mol**), a z je pocet elektronu, ktere jsou potreba pri vylouceni jedne molekuly
+
+## Silove pusobeni vodicu s proudy 
+
+Na kazdy vodic pusobi magneticka sila, jsou-li proudy stejneho smeru, vzajemne magneticke silove pusobeni je pritazlive ...
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rAWY9PUq2xr-xOK1lJp43AAAAA%26pid%3DApi&f=1&ipt=3c659c7f1c241ee3b7a81173fd15335b0fd3cf819a8e26c48abe2e8796dd54d7&ipo=images">
+
+Vodice s proudy stejneho smeru
+</div>
+
+... jsou-li proudy odlisneho smeru, vzajemne magneticke silove pusobeni je odpudive
+
+#### Velikost pusobicich magnetickych sil
+
+```
+          I1 * I2
+Fm1,2 = k -------- l
+             d
+```
+
+... kde `I1` a `I2` jsou proudy na vodicich, `k` konstanta umernosti a `l` vzdalenost vodicu
+
+
+#### Magneticka hystereze
+
+Jev, pri kterem se magneticka indukce ve feromagnetickem jadru meni podle popsane krivky
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hysterezni_smycka_napeti.svg/1280px-Hysterezni_smycka_napeti.svg.png">
+
+Magneticka hystereze
+</div>
