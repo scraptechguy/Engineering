@@ -360,4 +360,24 @@ Pri pohybu vodice v magnetickem poli se mezi jeho konci indukuje napeti primo um
 Ui = Blv
 ```
 
+#### Zaporny fazovy posun mezi napetim a proudem
 
+
+```
+u = Um * sin(omega * t)
+i = Im * sin(omega * t - pi/2)
+```
+
+... proud se za napetim opozduje o uhel `pi/2 rad`
+
+#### Induktance
+
+```
+      Um
+Xl = ----- = omega * L
+      Im
+```
+
+... jednotka induktance je stejna jako jednotka odporu
+
+> **Induktance** = zdanlivy odpor 
