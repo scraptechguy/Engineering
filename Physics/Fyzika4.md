@@ -360,8 +360,9 @@ Pri pohybu vodice v magnetickem poli se mezi jeho konci indukuje napeti primo um
 Ui = Blv
 ```
 
-#### Zaporny fazovy posun mezi napetim a proudem
+## Obvod stridaveho proudu
 
+#### Zaporny fazovy posun mezi napetim a proudem
 
 ```
 u = Um * sin(omega * t)
@@ -381,3 +382,91 @@ Xl = ----- = omega * L
 ... jednotka induktance je stejna jako jednotka odporu
 
 > **Induktance** = zdanlivy odpor 
+
+## Obvod stridaveho proudu s kondenzatorem
+
+> vlastnost ktera charakterizuje kondenzator je kapacita `C`
+
+#### Kondenzator
+
+Kondenzator v obvodu stridaveho proudu se periodicky nabiji a vybiji, nabijeci proud je nejvetsi v okamziku, kdyz je kondenzator nenabit - bez napeti
+
+V okamziku, kdyz je konenzator nabity na napeti `Um`, je proud v obvodu nulovy
+
+#### Kladny fazovy posun mezi napetim a proudem
+
+```
+u = Um * sin(omega * t)
+i = Im * sin(omega * t + pi/2)
+```
+
+... proud napeti predbiha o uhel `pi/2 rad`
+
+#### Kapacitance
+
+```
+      Um          1
+Xc = ----- = -----------
+      Im      omega * C
+```
+
+... jednotka kapacitance je stejna jako jednotka odporu, jedna se take o zdanlivy odpor
+
+## Laboratorni prace
+
++ **Magneticke pole vyvolane elektrickym proudem** - pruchodem elektrickeho proudu vzniklo v okoli vodice magneticke pole, orientace pole zavisi na smeru proudu, magneticke pole lze zesilit vyuzitim stoceneho vodice (civky)
+
+![Alt text](Images/image.png)
+
+### Elektrolyza
+
++ **Elektrolyza NaCl** - chlor (Cl2) vznika na kladne elektrode, vodik (H2) na zaporne elektrode. V elektrolytu zbyva hydroxid sodny
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage2.slideserve.com%2F4011771%2Fz-roztoku-nacl-v-roba-chloru-vod-ku-a-naoh-l.jpg&f=1&nofb=1&ipt=3d69f38a800454619a42a7f8dcd5121e7d83b2db20735714ae794d1bc8f9d44b&ipo=images">
+</div>
+
++ **Elektrolyza H2O** - vodik (H+) vznika na zaporne elektrode, kyslik (O-) vznika na kladne elektrode
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage2.slideserve.com%2F5067294%2Felektrol-za-vody-n.jpg&f=1&nofb=1&ipt=ca607003bad108d280bdee71e15d3dda93a0e838f72e2c78dff780b14e110bd5&ipo=images">
+</div>
+
++ **Zelezo v roztoku modre skalice** - z roztoku modre skalice se vyredukovala med a ta se uchytila na zeleznem predmetu
+
+## Vykon stridaveho proudu v obvodu s odporem
+
+```
+P = UI * cos fi
+```
+
+537 311 170
+ne 311
+8.5 kV
+
+0.91
+24.6
+9
+12.5
+
+### Trojfazovy alternator
+
+soucet okamzitych hodnot stridavych napeti indukovanych v civkach je stale nulovy
+
+```
+----------------------- L1
+----------------------- L2
+----------------------- L3
+----------------------- N
+```
+
++ **Fazove napeti** - napeti mezi fazovymi vodici (`L1 - L3`) a nulovacim vodicem (`N`)
+
+Elektromotor DU
+
++ **Transformator** - zarizeni, jimz se premenuji stridave proudy a napeti na jine hodnoty napeti a proudu se stejnou frekvenci, maji ucinnost 90 az 98 procent
+
+Energie elektrickeho pole nabiteho kondenzatoru se meni na energii magnetickeho pole civky
+
+
+
