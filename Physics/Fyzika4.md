@@ -470,3 +470,11 @@ Energie elektrickeho pole nabiteho kondenzatoru se meni na energii magnetickeho 
 
 
 
+rad interferenc
+
+b sin(alpha) = 2k * lambda/2
+
+10.6 21.5 33.4
+
+delta fi = 2pi/lambda * d
+
