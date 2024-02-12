@@ -478,3 +478,52 @@ b sin(alpha) = 2k * lambda/2
 
 delta fi = 2pi/lambda * d
 
+
+
+## Spojene a rozptylene cocky (spojky)
+
+<div align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.kvinta-html.wz.cz%2Ffyzika%2Foptika%2Fzobrazovani_optickymi_soustavami%2Fobrazky%2F14.gif&f=1&nofb=1&ipt=1ee4f8a9aa38151523e3bee311b7c05c90ff228adaabde0ebd2cd00ea842cc13&ipo=images">
+</div>
+
+### Rozptylka
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Negative.lens.svg/1200px-Negative.lens.svg.png">
+</div>
+
+### Spojka
+
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/V%C3%BDzna%C4%8Dn%C3%A9_paprsky_-_%C4%8Co%C4%8Dka.png">
+</div>
+
+```
+1/f = (n2 / n1 - 1)(1/r1 + 1/r2)
+```
+
+
+
+Laboratorni prace cislo 6 - urcovani ohniskove vzdalenosti cocky primou metodou 
+
+ukol: zjistit ohniskovou vzdalenost tri cocek a overit tuto vzdalenost vypoctem (1/a' + 1/a = 1/f)
+
+pomucky: svicka, stinitko, metr, cocky, zapalky
+
+nakres
+
+vlastni mereni (2x) + vypocty
+
+1.
+a = 30      a = 20
+a' = 5      a' = 6
+
+2.
+a = 30      a = 20
+a' = 7      a' = 9
+
+2.
+a = 30      a = 25
+a' = 8.5      a' = 10
+
+zaver
